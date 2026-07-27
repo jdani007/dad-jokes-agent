@@ -29,9 +29,9 @@ func NewTool[TArgs, TResults any](name, description string, handler functiontool
 	return tool, nil
 }
 
-func LaunchAgent(ctx context.Context, rootAgent agent.Agent) error {
+func LaunchAgent(ctx context.Context, a agent.Agent) error {
 	launcherConfig := &launcher.Config{
-		AgentLoader: agent.NewSingleLoader(rootAgent),
+		AgentLoader: agent.NewSingleLoader(a),
 	}
 
 	l := full.NewLauncher()
