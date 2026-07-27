@@ -12,7 +12,7 @@ A small Go agent that tells dad jokes using the Google ADK and a random dad joke
 1. Clone the repository and move into it:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jdani007/dad-jokes-agent.git
 cd dad-jokes
 ```
 
@@ -22,7 +22,7 @@ cd dad-jokes
 go mod tidy
 ```
 
-3. Set your API key in your shell:
+3. Set your API key in your shell (or use the `.env` file):
 
 ```bash
 export GOOGLE_API_KEY=YOUR-API-KEY
@@ -30,12 +30,25 @@ export GOOGLE_API_KEY=YOUR-API-KEY
 
 You can copy the format from `template.env`.
 
+```bash
+source .env
+```
+
 ## Run the agent
 
 Start the app from the project root:
 
 ```bash
 go run agent.go
+```
+
+## Build the agent
+
+You can build the agent into an executable binary with:
+
+```bash
+go build -o dad-jokes-agent agent.go
+./dad-jokes-agent
 ```
 
 ## Example interaction
