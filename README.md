@@ -32,15 +32,15 @@ go mod tidy
 
 3. Set your API key in your shell (or use the `.env` file):
 
->```bash
->export GOOGLE_API_KEY=YOUR-API-KEY
->```
+> ```bash
+> export GOOGLE_API_KEY=YOUR-API-KEY
+> ```
 >
->You can copy the format from `template.env`.
+> You can copy the format from `template.env`.
 >
->```bash
->source .env
->```
+> ```bash
+> source .env
+> ```
 
 ## Run the agent
 
@@ -58,6 +58,7 @@ You can build the agent into an executable binary with:
 go build -o dad-jokes-agent agent.go
 ./dad-jokes-agent
 ```
+
 
 ## Example interaction
 
