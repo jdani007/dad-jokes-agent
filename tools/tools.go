@@ -12,6 +12,8 @@ import (
 	"google.golang.org/adk/v2/tool/functiontool"
 )
 
+const MODEL = "gemini-3.5-flash-lite"
+
 func NewTool[TArgs, TResults any](name, description string, handler functiontool.Func[TArgs, TResults]) (tool.Tool, error) {
 	tool, err := functiontool.New(
 		functiontool.Config{
