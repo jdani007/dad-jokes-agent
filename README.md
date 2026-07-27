@@ -2,6 +2,14 @@
 
 A small Go agent that tells dad jokes using the Google ADK and a random dad joke API.
 
+## Source of jokes
+
+This agent can provide jokes in three ways:
+
+- Pull a random joke from [`dad-joke-api`](https://github.com/jonas-werner/dad-joke-api)
+- Create an original dad joke when you ask it to make one.
+- Use web search tools to find new jokes from other places online.
+
 ## Prerequisites
 
 - Go 1.22+ installed
@@ -24,15 +32,15 @@ go mod tidy
 
 3. Set your API key in your shell (or use the `.env` file):
 
-```bash
-export GOOGLE_API_KEY=YOUR-API-KEY
-```
-
-You can copy the format from `template.env`.
-
-```bash
-source .env
-```
+>```bash
+>export GOOGLE_API_KEY=YOUR-API-KEY
+>```
+>
+>You can copy the format from `template.env`.
+>
+>```bash
+>source .env
+>```
 
 ## Run the agent
 
@@ -65,9 +73,3 @@ Pretty classic networking humor, right? Did you get it?
 
 - Make sure `GOOGLE_API_KEY` is exported in the same terminal session where you run `go run agent.go`.
 - If you open a new terminal tab/window, export the variable again unless you add it to your shell profile (for example `~/.zshrc` or `~/.bashrc`).
-
-## Thanks
-
-Special thanks to [Jonas Werner](https://github.com/jonas-werner) and the `dad-joke-api` project for providing the jokes API:
-
-https://github.com/jonas-werner/dad-joke-api
