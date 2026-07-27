@@ -8,7 +8,7 @@ import (
 	"google.golang.org/adk/v2/agent"
 )
 
-const URL = "https://dadjokes.bamboozledaardvark.com/api/jokes/random"
+const url = "https://dadjokes.bamboozledaardvark.com/api/jokes/random"
 
 type dadJokeInput struct {}
 
@@ -18,7 +18,7 @@ type dadJokeOutput struct {
 
 func GetDadJoke(_ agent.Context, _ dadJokeInput) (dadJokeOutput, error){
 	
-	resp, err := http.Get(URL)
+	resp, err := http.Get(url)
 	if err != nil {
 		return dadJokeOutput{}, err
 	}
