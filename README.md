@@ -21,7 +21,7 @@ This agent can provide jokes in three ways:
 
 ```bash
 git clone https://github.com/jdani007/dad-jokes-agent.git
-cd dad-jokes
+cd dad-jokes-agent
 ```
 
 2. Install dependencies:
