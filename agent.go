@@ -44,6 +44,7 @@ func main() {
 			},
 		},
 	})
+
 	if err != nil {
 		log.Fatalf("Failed to create agent: %v", err)
 	}

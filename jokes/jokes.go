@@ -34,4 +34,3 @@ func GetDadJoke(_ agent.Context, _ dadJokeInput) (dadJokeOutput, error){
 
 	return joke, nil
 }
-
