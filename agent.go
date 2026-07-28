@@ -26,6 +26,9 @@ func main() {
 	}
 
 	dadJokeTool, err := tools.NewTool("getDadJoke", "Returns a random dad joke.", jokes.GetDadJoke)
+	if err != nil {
+		log.Fatalf("Failed to create tool: %v", err)
+	}
 
 	rootAgent, err := llmagent.New(llmagent.Config{
 		Name:        "Dad Joke Agent",

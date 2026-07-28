@@ -23,7 +23,7 @@ func NewTool[TArgs, TResults any](name, description string, handler functiontool
 		handler,
 	)
 	if err != nil {
-		return nil, fmt.Errorf("Failed to create tool: %v", err)
+		return nil, err
 	}
 	
 	return tool, nil
