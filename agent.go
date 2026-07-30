@@ -5,27 +5,27 @@ import (
 	"log"
 	"os"
 
+	"dad-joke-agent/helpers"
+	"dad-joke-agent/tools"
+
 	"google.golang.org/adk/v2/agent/llmagent"
 	"google.golang.org/adk/v2/model/gemini"
 	"google.golang.org/adk/v2/tool"
 	"google.golang.org/adk/v2/tool/geminitool"
 	"google.golang.org/genai"
-
-	"dad-joke-agent/jokes"
-	"dad-joke-agent/tools"
 )
 
 func main() {
 	ctx := context.Background()
 
-	model, err := gemini.NewModel(ctx, tools.MODEL, &genai.ClientConfig{
+	model, err := gemini.NewModel(ctx, helpers.MODEL, &genai.ClientConfig{
 		APIKey: os.Getenv("GOOGLE_API_KEY"),
 	})
 	if err != nil {
 		log.Fatalf("Failed to create Gemini model: %v", err)
 	}
 
-	dadJokeTool, err := tools.NewTool("getDadJoke", "Returns a random dad joke.", jokes.GetDadJoke)
+	dadJokeTool, err := helpers.NewTool("getDadJoke", "Returns a random dad joke.", tools.GetDadJoke)
 	if err != nil {
 		log.Fatalf("Failed to create tool: %v", err)
 	}
@@ -52,7 +52,7 @@ func main() {
 		log.Fatalf("Failed to create agent: %v", err)
 	}
 
-	if err := tools.LaunchAgent(ctx, rootAgent); err != nil {
+	if err := helpers.LaunchAgent(ctx, rootAgent); err != nil {
 		log.Fatalf("Run failed: %v", err)
 	}
 }

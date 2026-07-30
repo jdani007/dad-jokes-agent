@@ -1,4 +1,4 @@
-package jokes
+package tools
 
 import (
 	"encoding/json"
