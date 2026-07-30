@@ -5,7 +5,6 @@ import (
 	"log"
 	"os"
 
-	"dad-joke-agent/helpers"
 	"dad-joke-agent/tools"
 
 	"google.golang.org/adk/v2/agent/llmagent"
@@ -19,7 +18,7 @@ func main() {
 	ctx := context.Background()
 
 	// Create the Gemini model using the configured API key.
-	model, err := gemini.NewModel(ctx, helpers.MODEL, &genai.ClientConfig{
+	model, err := gemini.NewModel(ctx, MODEL, &genai.ClientConfig{
 		APIKey: os.Getenv("GOOGLE_API_KEY"),
 	})
 	if err != nil {
@@ -27,7 +26,7 @@ func main() {
 	}
 
 	// Register the custom dad-joke tool so the agent can fetch jokes on demand.
-	dadJokeTool, err := helpers.NewTool("getDadJoke", "Returns a random dad joke.", tools.GetDadJoke)
+	dadJokeTool, err := newTool("getDadJoke", "Returns a random dad joke.", tools.GetDadJoke)
 	if err != nil {
 		log.Fatalf("Failed to create tool: %v", err)
 	}
@@ -56,7 +55,7 @@ func main() {
 	}
 
 	// Launch the interactive CLI experience for the configured agent.
-	if err := helpers.LaunchAgent(ctx, rootAgent); err != nil {
+	if err := launchAgent(ctx, rootAgent); err != nil {
 		log.Fatalf("Run failed: %v", err)
 	}
 }

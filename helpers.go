@@ -1,4 +1,4 @@
-package helpers
+package main
 
 import (
 	"context"
@@ -16,7 +16,7 @@ import (
 const MODEL = "gemini-3.1-flash-lite"
 
 // NewTool wraps the functiontool.New function so it can be exposed to the agent as an ADK tool.
-func NewTool[TArgs, TResults any](name, description string, handler functiontool.Func[TArgs, TResults]) (tool.Tool, error) {
+func newTool[TArgs, TResults any](name, description string, handler functiontool.Func[TArgs, TResults]) (tool.Tool, error) {
 	tool, err := functiontool.New(
 		functiontool.Config{
 			Name:        name,
@@ -33,7 +33,7 @@ func NewTool[TArgs, TResults any](name, description string, handler functiontool
 
 // LaunchAgent starts the agent through the ADK launcher and passes the current
 // CLI arguments into the interactive runtime.
-func LaunchAgent(ctx context.Context, a agent.Agent) error {
+func launchAgent(ctx context.Context, a agent.Agent) error {
 	launcherConfig := &launcher.Config{
 		AgentLoader: agent.NewSingleLoader(a),
 	}
