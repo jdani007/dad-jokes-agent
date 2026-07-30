@@ -18,6 +18,7 @@ import (
 func main() {
 	ctx := context.Background()
 
+	// Create the Gemini model using the configured API key.
 	model, err := gemini.NewModel(ctx, helpers.MODEL, &genai.ClientConfig{
 		APIKey: os.Getenv("GOOGLE_API_KEY"),
 	})
@@ -25,11 +26,13 @@ func main() {
 		log.Fatalf("Failed to create Gemini model: %v", err)
 	}
 
+	// Register the custom dad-joke tool so the agent can fetch jokes on demand.
 	dadJokeTool, err := helpers.NewTool("getDadJoke", "Returns a random dad joke.", tools.GetDadJoke)
 	if err != nil {
 		log.Fatalf("Failed to create tool: %v", err)
 	}
 
+	// Configure the root agent with instructions and the tools it can use.
 	rootAgent, err := llmagent.New(llmagent.Config{
 		Name:        "Dad Joke Agent",
 		Model:       model,
@@ -52,6 +55,7 @@ func main() {
 		log.Fatalf("Failed to create agent: %v", err)
 	}
 
+	// Launch the interactive CLI experience for the configured agent.
 	if err := helpers.LaunchAgent(ctx, rootAgent); err != nil {
 		log.Fatalf("Run failed: %v", err)
 	}

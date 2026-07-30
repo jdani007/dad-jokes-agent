@@ -12,8 +12,10 @@ import (
 	"google.golang.org/adk/v2/tool/functiontool"
 )
 
+// MODEL is the Gemini model identifier used by the agent.
 const MODEL = "gemini-3.1-flash-lite"
 
+// NewTool wraps the functiontool.New function so it can be exposed to the agent as an ADK tool.
 func NewTool[TArgs, TResults any](name, description string, handler functiontool.Func[TArgs, TResults]) (tool.Tool, error) {
 	tool, err := functiontool.New(
 		functiontool.Config{
@@ -25,10 +27,12 @@ func NewTool[TArgs, TResults any](name, description string, handler functiontool
 	if err != nil {
 		return nil, err
 	}
-	
+
 	return tool, nil
 }
 
+// LaunchAgent starts the agent through the ADK launcher and passes the current
+// CLI arguments into the interactive runtime.
 func LaunchAgent(ctx context.Context, a agent.Agent) error {
 	launcherConfig := &launcher.Config{
 		AgentLoader: agent.NewSingleLoader(a),
