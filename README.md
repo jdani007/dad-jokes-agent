@@ -1,14 +1,14 @@
 # Dad Jokes Agent
 
-A small Go agent that tells dad jokes using the Google ADK and a random dad joke API.
+A small Go agent that tells dad jokes using the Google ADK and a bundled local joke dataset.
 
 ## Source of jokes
 
-This agent can provide jokes in three ways:
+This agent can provide jokes in a few ways:
 
-- Pull a random joke from [`dad-joke-api`](https://github.com/jonas-werner/dad-joke-api)
+- Pull a random joke from the built-in local joke list in `tools/data/jokes.json`
 - Create an original dad joke when you ask it to make one.
-- Use web search tools to find new jokes from other places online.
+- Use web search tools to find new jokes from other places online when needed.
 
 ## Prerequisites
 
@@ -50,6 +50,26 @@ Start the app from the project root:
 go run agent.go
 ```
 
+## Launch the web UI for troubleshooting
+
+The app includes the ADK launcher support for a web-based UI. To start it:
+
+```bash
+go run . web api webui
+```
+
+Or, equivalently:
+
+```bash
+go run agent.go web api webui
+```
+
+When the UI is running, open the local URL shown in the terminal in your browser. This is useful for:
+
+- testing prompts interactively
+- inspecting agent/tool behavior
+- troubleshooting request and response issues
+
 ## Build the agent
 
 You can build the agent into an executable binary with:
@@ -58,7 +78,6 @@ You can build the agent into an executable binary with:
 go build -o dad-jokes-agent agent.go
 ./dad-jokes-agent
 ```
-
 
 ## Example interaction
 
