@@ -1,53 +1,49 @@
 package tools
 
 import (
-	"encoding/json"
-	"math/rand"
-	"time"
 	_ "embed"
+	"encoding/json"
+	"math/rand/v2"
 
 	"google.golang.org/adk/v2/agent"
 )
 
 //go:embed data/jokes.json
 var jokeData []byte
+var jokeRepo jokesApi
+
+func init() {
+	if err := json.Unmarshal(jokeData, &jokeRepo); err != nil {
+		panic("failed to parse embedded jokes.json file: " + err.Error())
+	}
+	if len(jokeRepo.Jokes) == 0 {
+		panic("file: jokes.json parsed successfully, but contains zero jokes")
+	}
+}
 
 type jokesApi struct {
 	Version     int         `json:"version"`
-	GeneratedAt time.Time   `json:"generated_at"`
+	GeneratedAt string      `json:"generated_at"`
 	Attribution attribution `json:"attribution"`
 	Count       int         `json:"count"`
-	Jokes       []jokes     `json:"jokes"`
+	Jokes       []joke      `json:"jokes"`
 }
+
 type attribution struct {
 	Source string `json:"source"`
 	Notice string `json:"notice"`
 }
-type jokes struct {
+
+type joke struct {
 	ID   string `json:"id"`
 	Joke string `json:"joke"`
 }
 
 type dadJokeInput struct{}
 
-type dadJokeOutput jokes
+type dadJokeOutput joke
 
 func GetDadJoke(_ agent.Context, _ dadJokeInput) (dadJokeOutput, error) {
-
-	joke, err := getRandomJoke()
-	if err != nil {
-		return dadJokeOutput{}, err
-	}
-
-	return joke, nil
-}
-
-func getRandomJoke() (dadJokeOutput, error) {
-	var api jokesApi
-	if err := json.Unmarshal(jokeData, &api); err != nil {
-		return dadJokeOutput{}, err
-	}
-
-	randNum := rand.Intn(len(api.Jokes))
-	return dadJokeOutput(api.Jokes[randNum]), nil
+	randNum := rand.IntN(len(jokeRepo.Jokes))
+	return dadJokeOutput(jokeRepo.Jokes[randNum]), nil
 }
