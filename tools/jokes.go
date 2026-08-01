@@ -2,37 +2,52 @@ package tools
 
 import (
 	"encoding/json"
-	"io"
-	"net/http"
+	"math/rand"
+	"time"
+	_ "embed"
 
 	"google.golang.org/adk/v2/agent"
 )
 
-const url = "https://dadjokes.bamboozledaardvark.com/api/jokes/random"
+//go:embed data/jokes.json
+var jokeData []byte
 
-type dadJokeInput struct{}
-
-type dadJokeOutput struct {
+type jokesApi struct {
+	Version     int         `json:"version"`
+	GeneratedAt time.Time   `json:"generated_at"`
+	Attribution attribution `json:"attribution"`
+	Count       int         `json:"count"`
+	Jokes       []jokes     `json:"jokes"`
+}
+type attribution struct {
+	Source string `json:"source"`
+	Notice string `json:"notice"`
+}
+type jokes struct {
+	ID   string `json:"id"`
 	Joke string `json:"joke"`
 }
 
-// GetDadJoke fetches a single dad joke from the remote API and returns it
-// in a format that the agent can use directly.
+type dadJokeInput struct{}
+
+type dadJokeOutput jokes
+
 func GetDadJoke(_ agent.Context, _ dadJokeInput) (dadJokeOutput, error) {
 
-	resp, err := http.Get(url)
+	joke, err := getRandomJoke()
 	if err != nil {
 		return dadJokeOutput{}, err
 	}
-	defer resp.Body.Close()
-
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return dadJokeOutput{}, err
-	}
-
-	var joke dadJokeOutput
-	json.Unmarshal(body, &joke)
 
 	return joke, nil
+}
+
+func getRandomJoke() (dadJokeOutput, error) {
+	var api jokesApi
+	if err := json.Unmarshal(jokeData, &api); err != nil {
+		return dadJokeOutput{}, err
+	}
+
+	randNum := rand.Intn(len(api.Jokes))
+	return dadJokeOutput(api.Jokes[randNum]), nil
 }

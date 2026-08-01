@@ -1,0 +1,4547 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-02T07:31:20.558638+00:00",
+  "attribution": {
+    "source": "https://github.com/jonas-werner/dad-joke-api",
+    "notice": "These jokes were collected from public dad-joke APIs, permissively licensed joke datasets, and public r/dadjokes threads, then curated and normalized for distinctness. I do not claim authorship of the underlying gags — most are widely-circulated dad jokes shared by the community over the years. If you authored one of these and would like it removed or credited differently, please open an issue."
+  },
+  "count": 1134,
+  "jokes": [
+    {
+      "id": "004feea8",
+      "joke": "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    },
+    {
+      "id": "006f795b",
+      "joke": "What do elves post on Social Media? Elf-ies."
+    },
+    {
+      "id": "00973713",
+      "joke": "Did you hear about the guy who invented Lifesavers? They say he made a mint."
+    },
+    {
+      "id": "00a3d813",
+      "joke": "Why did the developer go broke buying Bitcoin? He kept calling it bytecoin and didn't get any."
+    },
+    {
+      "id": "00aef998",
+      "joke": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it."
+    },
+    {
+      "id": "00af8125",
+      "joke": "How does the moon cut his hair? Eclipse it."
+    },
+    {
+      "id": "00bda891",
+      "joke": "What did the shy pebble wish for? That she was a little boulder."
+    },
+    {
+      "id": "00c8169b",
+      "joke": "Why did the kid cross the playground? To get to the other slide."
+    },
+    {
+      "id": "00d6dea0",
+      "joke": "How do robots eat guacamole? With computer chips."
+    },
+    {
+      "id": "010e7018",
+      "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25"
+    },
+    {
+      "id": "01390bc8",
+      "joke": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy."
+    },
+    {
+      "id": "01a2a73f",
+      "joke": "Where’s the bin? I haven’t been anywhere!"
+    },
+    {
+      "id": "0277cbfd",
+      "joke": "What did the Buffalo say to his little boy when he dropped him off at school? Bison."
+    },
+    {
+      "id": "02ab694c",
+      "joke": "My friend keeps telling me \"Cheer up. You aren't stuck in a deep hole in the ground, filled with water.\" I know he means well."
+    },
+    {
+      "id": "02f1b18c",
+      "joke": "A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. “Sure thing” the bartender replies and asks “but what’s with the big pause?” The panda holds up his hands and says “I was born with them”"
+    },
+    {
+      "id": "031fb738",
+      "joke": "What do you call a dog that can do magic? A Labracadabrador."
+    },
+    {
+      "id": "033d4942",
+      "joke": "This graveyard is packed. People must be dying to get in."
+    },
+    {
+      "id": "035c15fa",
+      "joke": "To be Frank, I'd have to change my name."
+    },
+    {
+      "id": "037628e9",
+      "joke": "Did you hear that David lost his ID in prague? Now we just have to call him Dav."
+    },
+    {
+      "id": "03890c11",
+      "joke": "I thought about going on an all-almond diet. But that's just nuts."
+    },
+    {
+      "id": "03bd0489",
+      "joke": "What did one hat say to the other? You stay here — I’ll go on ahead."
+    },
+    {
+      "id": "03c3f34e",
+      "joke": "What has a bed that you can’t sleep in? A river."
+    },
+    {
+      "id": "03f8fbdb",
+      "joke": "I've got a joke about vegetables for you... but it's a bit corny."
+    },
+    {
+      "id": "04a28620",
+      "joke": "I visited a weight loss website they told me I have to have cookies disabled."
+    },
+    {
+      "id": "04f51e56",
+      "joke": "What do you call a group of killer whales playing instruments? An Orca-stra."
+    },
+    {
+      "id": "0552a098",
+      "joke": "Two guys walk into a bar . . . The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\""
+    },
+    {
+      "id": "05553e89",
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+    },
+    {
+      "id": "058c9496",
+      "joke": "How come a man driving a train got struck by lightning? He was a good conductor."
+    },
+    {
+      "id": "05c9d035",
+      "joke": "Why are fish so smart? Because they live in schools!"
+    },
+    {
+      "id": "05e96bbe",
+      "joke": "What creature is smarter than a talking parrot? A spelling bee."
+    },
+    {
+      "id": "05f0fa8c",
+      "joke": "Why didn't the skeleton go for prom? Because it had nobody."
+    },
+    {
+      "id": "05f5bf6f",
+      "joke": "Whenever I try to eat healthy a chocolate bar looks at me and Snickers."
+    },
+    {
+      "id": "05fcf176",
+      "joke": "What do you give a sick lemon? Lemonaid."
+    },
+    {
+      "id": "06827ac0",
+      "joke": "I’m only familiar with 25 letters in the English language. I don’t know why."
+    },
+    {
+      "id": "06c2855f",
+      "joke": "How do you find Will Smith in the snow? Look for fresh prints."
+    },
+    {
+      "id": "07029955",
+      "joke": "To the guy who invented zero... thanks for nothing."
+    },
+    {
+      "id": "0724bc77",
+      "joke": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log."
+    },
+    {
+      "id": "07c66342",
+      "joke": "Why dot net developers don't wear glasses? Because they see sharp."
+    },
+    {
+      "id": "07eb73cf",
+      "joke": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    },
+    {
+      "id": "07f4bcc1",
+      "joke": "I have a joke about construction. I’m still working on it."
+    },
+    {
+      "id": "08031b39",
+      "joke": "How do trees get on the internet? They log on."
+    },
+    {
+      "id": "08234d17",
+      "joke": "Never take advice from electrons. They are always negative."
+    },
+    {
+      "id": "086929eb",
+      "joke": "Every night at 11:11, I make a wish that someone will come fix my broken clock."
+    },
+    {
+      "id": "089e1102",
+      "joke": "What do you call a pig with three eyes? Piiig"
+    },
+    {
+      "id": "08a6c0cf",
+      "joke": "Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat."
+    },
+    {
+      "id": "08b878f5",
+      "joke": "When an ambulance zips past with its siren blaring: \"They won't sell much ice cream driving that fast.\""
+    },
+    {
+      "id": "090b26b4",
+      "joke": "Did you know crocodiles could grow up to 15 feet? But most just have 4."
+    },
+    {
+      "id": "091612b8",
+      "joke": "Why did the functions stop calling each other? Because they had constant arguments."
+    },
+    {
+      "id": "096613da",
+      "joke": "Did you hear the one about the Ballerina Debate Team? They always stay on point."
+    },
+    {
+      "id": "0986496a",
+      "joke": "What do you get hanging from Apple trees? Sore arms."
+    },
+    {
+      "id": "09c31f48",
+      "joke": "What do you call a boomerang that won't come back? A stick."
+    },
+    {
+      "id": "0a047588",
+      "joke": "What did the ocean say to the beach? Nothing, it just waved."
+    },
+    {
+      "id": "0a258480",
+      "joke": "Why don't sharks eat clowns? Because they taste funny."
+    },
+    {
+      "id": "0a3f335a",
+      "joke": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything."
+    },
+    {
+      "id": "0a5bdc2d",
+      "joke": "I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now."
+    },
+    {
+      "id": "0a5eea83",
+      "joke": "Where do fish keep their money? In the riverbank"
+    },
+    {
+      "id": "0ae06aba",
+      "joke": "Breaking news! Energizer Bunny arrested – charged with battery."
+    },
+    {
+      "id": "0af5d6dc",
+      "joke": "Why can’t you hear a pterodactyl go to the bathroom? The p is silent."
+    },
+    {
+      "id": "0afef559",
+      "joke": "What do you call someone with no body and no nose? Nobody knows."
+    },
+    {
+      "id": "0b6193b0",
+      "joke": "I wish I could clean mirrors for a living. It's just something I can see myself doing."
+    },
+    {
+      "id": "0ba29239",
+      "joke": "My older brother always tore the last pages of my comic books, and never told me why. I had to draw my own conclusions."
+    },
+    {
+      "id": "0c3c3ae1",
+      "joke": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off."
+    },
+    {
+      "id": "0c851060",
+      "joke": "I cut my finger slicing cheese the other day but I think I may have grater problems than that."
+    },
+    {
+      "id": "0c8e1825",
+      "joke": "Why didn't the vampire attack Taylor Swift? She had bad blood."
+    },
+    {
+      "id": "0cc518e7",
+      "joke": "What did the sea say to the sand? \"We have to stop meeting like this.\""
+    },
+    {
+      "id": "0d0944f5",
+      "joke": "Do you know what the loudest pet is? A trumpet."
+    },
+    {
+      "id": "0d29ee48",
+      "joke": "Past, present, and future walked into a bar.... It was tense."
+    },
+    {
+      "id": "0d448fe2",
+      "joke": "My sea sickness comes in waves."
+    },
+    {
+      "id": "0d4f6011",
+      "joke": "Slept like a log last night … woke up in the fireplace."
+    },
+    {
+      "id": "0d62399e",
+      "joke": "What do you call someone with no nose? Nobody knows."
+    },
+    {
+      "id": "0d71dbbb",
+      "joke": "Have you heard the story about the magic tractor? It drove down the road and turned into a field."
+    },
+    {
+      "id": "0d8a6602",
+      "joke": "I saw a documentary on TV last night about how they put ships together. It was rivetting."
+    },
+    {
+      "id": "0d8e34da",
+      "joke": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’"
+    },
+    {
+      "id": "0dc4ce3a",
+      "joke": "How does a penguin build its house? Igloos it together."
+    },
+    {
+      "id": "0e332377",
+      "joke": "Did you hear about the new book on anti-gravity? It's impossible to put down."
+    },
+    {
+      "id": "0e3e73f4",
+      "joke": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix."
+    },
+    {
+      "id": "0e3eb40b",
+      "joke": "What kind of tree fits in your hand? A palm tree!"
+    },
+    {
+      "id": "0eae471f",
+      "joke": "What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit."
+    },
+    {
+      "id": "0f243db3",
+      "joke": "The first time I got a universal remote control I thought to myself, \"This changes everything\""
+    },
+    {
+      "id": "0f930e2d",
+      "joke": "What do you get when you cross a React developer with a mathematician? A function component."
+    },
+    {
+      "id": "0fbe4003",
+      "joke": "What did the skeleton order at the bar? A beer and a mop."
+    },
+    {
+      "id": "107655b8",
+      "joke": "Did you hear about the restaurant they're building on the moon? The food is supposed to be great, but there's no atmosphere."
+    },
+    {
+      "id": "11074dc1",
+      "joke": "What do you call a group of disorganized cats? A cat-tastrophe."
+    },
+    {
+      "id": "112e914f",
+      "joke": "What did the mountain climber name his son? Cliff."
+    },
+    {
+      "id": "113f9bc1",
+      "joke": "Why did the belt go to prison? He held up a pair of pants!"
+    },
+    {
+      "id": "11655810",
+      "joke": "I was in an 80's band called the prevention. We were better than the cure."
+    },
+    {
+      "id": "11f3da0b",
+      "joke": "Why do cows wear bells? Because their horns don't work."
+    },
+    {
+      "id": "12008f4a",
+      "joke": "Knock knock. Who's there? Cows go. Cows go who? No, cows go moo."
+    },
+    {
+      "id": "123d6526",
+      "joke": "How do you make a bandstand? Take away all of the chairs."
+    },
+    {
+      "id": "12ad6a7d",
+      "joke": "When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!"
+    },
+    {
+      "id": "12bf2f58",
+      "joke": "Why did the crab never share Because he's shellfish."
+    },
+    {
+      "id": "12fa5e1f",
+      "joke": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\" fish!"
+    },
+    {
+      "id": "130d4865",
+      "joke": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!"
+    },
+    {
+      "id": "135b28aa",
+      "joke": "I was at the library and asked if they have any books on \"paranoia\", the librarian replied, \"yes, they are right behind you\""
+    },
+    {
+      "id": "139c43fd",
+      "joke": "Did you hear the joke about the wandering nun? She was a roman catholic."
+    },
+    {
+      "id": "13c4625e",
+      "joke": "What do you call a guy lying on your doorstep? Matt."
+    },
+    {
+      "id": "13d5f71c",
+      "joke": "Why didn’t the skeleton cross the road? Because he had no guts."
+    },
+    {
+      "id": "141a7dca",
+      "joke": "Knock knock. Who's there? Hatch. Hatch who? Bless you!"
+    },
+    {
+      "id": "14243341",
+      "joke": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi."
+    },
+    {
+      "id": "14ad938d",
+      "joke": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer."
+    },
+    {
+      "id": "151d1ad3",
+      "joke": "A user interface is like a joke. If you have to explain it then it is not that good."
+    },
+    {
+      "id": "154c1f03",
+      "joke": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy."
+    },
+    {
+      "id": "157f46ae",
+      "joke": "Where do sheep go to get their hair cut? The baa-baa shop."
+    },
+    {
+      "id": "15ae559e",
+      "joke": "Want to hear a joke about paper? Never mind, it’s tearable."
+    },
+    {
+      "id": "15c78614",
+      "joke": "\"Put the cat out.\" \"I didn't realize it was on fire.\""
+    },
+    {
+      "id": "15cbcab7",
+      "joke": "To understand what recursion is... You must first understand what recursion is"
+    },
+    {
+      "id": "15da03a2",
+      "joke": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day."
+    },
+    {
+      "id": "160013eb",
+      "joke": "Where’s the bin? Dad: I haven’t been anywhere!"
+    },
+    {
+      "id": "1614a9b4",
+      "joke": "Shout out to my grandma, that's the only way she can hear."
+    },
+    {
+      "id": "16203af0",
+      "joke": "What did the Java code say to the C code? You've got no class."
+    },
+    {
+      "id": "163a5626",
+      "joke": "How do you tell an alligator from a crocodile? You’ll see one later, the other in a while."
+    },
+    {
+      "id": "1697b8c4",
+      "joke": "Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me"
+    },
+    {
+      "id": "16a00476",
+      "joke": "Why do chicken coops only have two doors? Because if they had four, they would be chicken sedans"
+    },
+    {
+      "id": "16a10166",
+      "joke": "Did you know the first French fries weren't actually cooked in France? They were cooked in grease."
+    },
+    {
+      "id": "16a83c78",
+      "joke": "Which state has the most streets? Rhode Island."
+    },
+    {
+      "id": "16ef68af",
+      "joke": "Where was the Declaration of Independence signed? At the bottom!"
+    },
+    {
+      "id": "16f7d16b",
+      "joke": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree."
+    },
+    {
+      "id": "170b27eb",
+      "joke": "My pet mouse Elvis died last night. He was caught in a trap."
+    },
+    {
+      "id": "17185eb4",
+      "joke": "A cheeseburger walked into a bar. The bartender said, “Sorry, we don’t serve food here.”"
+    },
+    {
+      "id": "171aa00d",
+      "joke": "What do you call a fake noodle? An impasta."
+    },
+    {
+      "id": "174de498",
+      "joke": "Did you hear the one about the giant pickle? He was kind of a big dill."
+    },
+    {
+      "id": "1750452f",
+      "joke": "Why do fish live in salt water? Because pepper makes them sneeze!"
+    },
+    {
+      "id": "176b9375",
+      "joke": "Why don't scientists trust atoms? Because they make up everything."
+    },
+    {
+      "id": "1797cd94",
+      "joke": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up."
+    },
+    {
+      "id": "179b8ba2",
+      "joke": "Why did the knife dress up in a suit? Because it wanted to look sharp"
+    },
+    {
+      "id": "180f97aa",
+      "joke": "Did you watch the new comic book movie? It was very graphic!"
+    },
+    {
+      "id": "1840aad2",
+      "joke": "Writing with a broken pencil is pointless."
+    },
+    {
+      "id": "18496219",
+      "joke": "Did you hear about the Viking who was reincarnated? He was Bjorn again"
+    },
+    {
+      "id": "1872d4ab",
+      "joke": "Why is it always hot in the corner of a room? Because a corner is 90 degrees."
+    },
+    {
+      "id": "187f00f8",
+      "joke": "Hostess: Do you have a preference of where you sit? Dad: Down."
+    },
+    {
+      "id": "1889d1b4",
+      "joke": "I’ve just been reading a book about anti-gravity, it’s impossible to put down!"
+    },
+    {
+      "id": "1895e31c",
+      "joke": "You know what the loudest pet you can get is A trumpet."
+    },
+    {
+      "id": "18c74658",
+      "joke": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road."
+    },
+    {
+      "id": "190022c0",
+      "joke": "Why are basketball players messy eaters? Because they are always dribbling."
+    },
+    {
+      "id": "190806a5",
+      "joke": "Why are fish so smart? Because they swim in schools."
+    },
+    {
+      "id": "1927a051",
+      "joke": "Why did the scarecrow win an award? He was outstanding in his field."
+    },
+    {
+      "id": "194ccc71",
+      "joke": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars"
+    },
+    {
+      "id": "195c5a08",
+      "joke": "Where do programmers like to hangout? The Foo Bar."
+    },
+    {
+      "id": "197577d1",
+      "joke": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple."
+    },
+    {
+      "id": "198a57a5",
+      "joke": "Want to hear my pizza joke? Never mind, it's too cheesy."
+    },
+    {
+      "id": "19b0f51e",
+      "joke": "Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months."
+    },
+    {
+      "id": "19b935ff",
+      "joke": "Why did the teddy bear say “no” to dessert? Because she was stuffed."
+    },
+    {
+      "id": "19d9bebc",
+      "joke": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with."
+    },
+    {
+      "id": "1a8c343e",
+      "joke": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad."
+    },
+    {
+      "id": "1aafa7f1",
+      "joke": "\"Dad, I'm hungry.\" \"Hi Hungry, I'm Dad.\""
+    },
+    {
+      "id": "1ab9e35d",
+      "joke": "The rotation of earth really makes my day."
+    },
+    {
+      "id": "1ae0ae31",
+      "joke": "Me and my mates are in a band called Duvet. We're a cover band."
+    },
+    {
+      "id": "1baa90b7",
+      "joke": "Did you hear about the famous Italian chef that recently died He pasta way."
+    },
+    {
+      "id": "1c3b197b",
+      "joke": "What did Michael Jackson name his denim store? Billy Jeans!"
+    },
+    {
+      "id": "1ccac1c6",
+      "joke": "Do you know the name of the boy wizard that loved to play golf? Harry Putter."
+    },
+    {
+      "id": "1d6a16da",
+      "joke": "Why are skeletons so calm? Because nothing gets under their skin."
+    },
+    {
+      "id": "1d88fd4b",
+      "joke": "Did you hear about the campsite that got visited by Bigfoot? It got in tents."
+    },
+    {
+      "id": "1e16bcd6",
+      "joke": "What do you call a pony with a sore throat? A little horse."
+    },
+    {
+      "id": "1e2f1a73",
+      "joke": "What do you call cheese that isn’t yours? Nacho cheese."
+    },
+    {
+      "id": "1e57f70d",
+      "joke": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish."
+    },
+    {
+      "id": "1ea0e70c",
+      "joke": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\"fish!"
+    },
+    {
+      "id": "1f0811f0",
+      "joke": "If a kid refuses to nap, are they guilty of resisting a rest?"
+    },
+    {
+      "id": "1f4fb5c9",
+      "joke": "What was the pumpkin’s favorite sport? Squash."
+    },
+    {
+      "id": "1f725e18",
+      "joke": "Why do you never see elephants hiding in trees? Because they're really good at it."
+    },
+    {
+      "id": "1f9dd260",
+      "joke": "Where did the API go to eat? To the RESTaurant."
+    },
+    {
+      "id": "1fb313b4",
+      "joke": "To the man in the wheelchair that stole my camouflage jacket... You can hide but you can't run."
+    },
+    {
+      "id": "1fff32a1",
+      "joke": "What's the best part about living in Switzerland? I don't know, but the flag is a big plus."
+    },
+    {
+      "id": "202e44b6",
+      "joke": "Why do crabs never give to charity? Because they’re shellfish."
+    },
+    {
+      "id": "202e92d2",
+      "joke": "What did the two slices of bread say at their wedding? It was loaf at first sight."
+    },
+    {
+      "id": "203b6085",
+      "joke": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line."
+    },
+    {
+      "id": "2049c589",
+      "joke": "The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife."
+    },
+    {
+      "id": "20a328fa",
+      "joke": "Why did the designer break up with their font? Because it wasn't their type."
+    },
+    {
+      "id": "20ca6d3d",
+      "joke": "The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning. Thank you very much, sir."
+    },
+    {
+      "id": "21121bc1",
+      "joke": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump."
+    },
+    {
+      "id": "212e7cb2",
+      "joke": "I have a great joke about pizza, but it’s a little cheesy."
+    },
+    {
+      "id": "2177095c",
+      "joke": "I sold my vacuum cleaner the other day — it was just gathering dust."
+    },
+    {
+      "id": "21e61102",
+      "joke": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea."
+    },
+    {
+      "id": "221d395e",
+      "joke": "I was shocked when I was diagnosed as colorblind... It came out of the purple."
+    },
+    {
+      "id": "227e08e7",
+      "joke": "Why was Pavlov's beard so soft? Because he conditioned it."
+    },
+    {
+      "id": "232d1aaa",
+      "joke": "I told a joke about time travel, but you guys didn’t like it."
+    },
+    {
+      "id": "23578652",
+      "joke": "How do you make 'one' disappear? Add a 'g' and it's gone."
+    },
+    {
+      "id": "23ac6b25",
+      "joke": "Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer."
+    },
+    {
+      "id": "24271cff",
+      "joke": "Why can't you use \"Beef stew\"as a password? Because it's not stroganoff."
+    },
+    {
+      "id": "2430b66f",
+      "joke": "Where did you learn to make ice cream? Sunday school."
+    },
+    {
+      "id": "2434d23a",
+      "joke": "What is the most groundbreaking invention of all time The shovel."
+    },
+    {
+      "id": "2436cf5f",
+      "joke": "I went to the doctor today and he told me I had type A blood but it was a type O."
+    },
+    {
+      "id": "24d25054",
+      "joke": "What happens when you anger a brain surgeon? They will give you a piece of your mind."
+    },
+    {
+      "id": "259616a3",
+      "joke": "New atoms frequently lose electrons when they fail to keep an ion them."
+    },
+    {
+      "id": "25de746e",
+      "joke": "Q: What did the spaghetti say to the other spaghetti? A: Pasta la vista, baby!"
+    },
+    {
+      "id": "2657fadb",
+      "joke": "What do you get when you cross an elephant with a rhino? Elephino."
+    },
+    {
+      "id": "27521a33",
+      "joke": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction."
+    },
+    {
+      "id": "27f04bf5",
+      "joke": "Well... That’s a deep subject."
+    },
+    {
+      "id": "2806448e",
+      "joke": "Knock knock. Who's there? A broken pencil. A broken pencil who? Never mind. It's pointless."
+    },
+    {
+      "id": "28246ef8",
+      "joke": "I fear for the calendar, its days are numbered."
+    },
+    {
+      "id": "2864c5b1",
+      "joke": "Why don't eggs tell jokes? Because they would crack each other up."
+    },
+    {
+      "id": "28977d22",
+      "joke": "Why don’t scientists trust stairs? They’re always up to something."
+    },
+    {
+      "id": "289907f5",
+      "joke": "I started a new business making yachts in my attic this year... The sails are going through the roof."
+    },
+    {
+      "id": "28f7f462",
+      "joke": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it."
+    },
+    {
+      "id": "2903d331",
+      "joke": "Did you hear about the two silk worms in a race? It ended in a tie."
+    },
+    {
+      "id": "291a7964",
+      "joke": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\""
+    },
+    {
+      "id": "29783e93",
+      "joke": "What is the difference between ignorance and apathy? I don't know and I don't care."
+    },
+    {
+      "id": "2984d204",
+      "joke": "Hear about the lazy kangaroo? He was a real pouch potato."
+    },
+    {
+      "id": "29d845aa",
+      "joke": "The invention of the wheel was what got things rolling"
+    },
+    {
+      "id": "29f9efe6",
+      "joke": "Have you heard of the band 1023MB? They haven't got a gig yet."
+    },
+    {
+      "id": "2ab73d5f",
+      "joke": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts."
+    },
+    {
+      "id": "2af444c7",
+      "joke": "Why was the shirt happy to hang around the tank top? Because it was armless"
+    },
+    {
+      "id": "2b28649a",
+      "joke": "Toasters were the first form of pop-up notifications."
+    },
+    {
+      "id": "2b3f2b11",
+      "joke": "Justice is a dish best served cold. If it were warm, it’d just be water."
+    },
+    {
+      "id": "2ba254a8",
+      "joke": "What is brown and sticky? A stick."
+    },
+    {
+      "id": "2c0df580",
+      "joke": "What do you call an Argentinian with a rubber toe? Roberto"
+    },
+    {
+      "id": "2c78b3d0",
+      "joke": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’"
+    },
+    {
+      "id": "2c93bcbb",
+      "joke": "Why didn't the number 4 get into the nightclub? Because he is 2 square."
+    },
+    {
+      "id": "2d47fb47",
+      "joke": "Why don't crabs ever give to charity? Because they're shellfish."
+    },
+    {
+      "id": "2de66b27",
+      "joke": "You can't trust a ladder. It will always let you down"
+    },
+    {
+      "id": "2dee0fc3",
+      "joke": "What kind of music do chiropractors listen to? Hip pop."
+    },
+    {
+      "id": "2e0006d7",
+      "joke": "Why did the melons plan a big wedding? Because they cantaloupe!"
+    },
+    {
+      "id": "2e390e74",
+      "joke": "Why do nurses carry around red crayons? Sometimes they need to draw blood."
+    },
+    {
+      "id": "2e4d4b4a",
+      "joke": "A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack."
+    },
+    {
+      "id": "2ebbd182",
+      "joke": "What kind of music do astronauts listen to? Nep-tunes."
+    },
+    {
+      "id": "2ec70317",
+      "joke": "I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal."
+    },
+    {
+      "id": "2edd5023",
+      "joke": "What does a female snake use for support? A co-Bra!"
+    },
+    {
+      "id": "2ee2978f",
+      "joke": "Did you hear about the cheese who saved the world? It was Legend-dairy!"
+    },
+    {
+      "id": "2eeb1413",
+      "joke": "What is Beethoven's favorite fruit? A ba-na-na-na."
+    },
+    {
+      "id": "2f6f0047",
+      "joke": "I got hit on the head with a can of Coke. Fortunately, it was a soft drink."
+    },
+    {
+      "id": "2fa1be17",
+      "joke": "Why did the programmer bring a broom to work? To clean up all the bugs."
+    },
+    {
+      "id": "2fde1666",
+      "joke": "You know that cemetery up the road? People are dying to get in there."
+    },
+    {
+      "id": "30166d51",
+      "joke": "Why do bears have hairy coats? Fur protection."
+    },
+    {
+      "id": "30544e48",
+      "joke": "Sore throats are a pain in the neck!"
+    },
+    {
+      "id": "307a0d6e",
+      "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+    },
+    {
+      "id": "30c08524",
+      "joke": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement."
+    },
+    {
+      "id": "30f63b89",
+      "joke": "Where did Captain Hook get his hook? From a second hand store."
+    },
+    {
+      "id": "3165bde5",
+      "joke": "I just watched a documentary about beavers. It was the best dam show I ever saw"
+    },
+    {
+      "id": "31869e24",
+      "joke": "People are making apocalypse jokes like there’s no tomorrow."
+    },
+    {
+      "id": "31b402a1",
+      "joke": "I just wrote a book on reverse psychology. Do not read it!"
+    },
+    {
+      "id": "31c46c4b",
+      "joke": "What do you call a dad that has fallen through the ice? A Popsicle."
+    },
+    {
+      "id": "31f39017",
+      "joke": "Two guys walk into a bar, the third one ducks."
+    },
+    {
+      "id": "321be3fd",
+      "joke": "My therapist told me to write letters to the people who hurt me the most, and then burn them. OK, but what do I do with the letters?"
+    },
+    {
+      "id": "3220047b",
+      "joke": "My wife said I should do lunges to stay in shape. That would be a big step forward."
+    },
+    {
+      "id": "324bd3ed",
+      "joke": "I’m reading a horror novel in braille. Something bad is about to happen — I can feel it."
+    },
+    {
+      "id": "32639ca3",
+      "joke": "Why did the programmer quit their job? Because they didn't get arrays."
+    },
+    {
+      "id": "3294eaac",
+      "joke": "I’m reading a book on the history of glue – can’t put it down."
+    },
+    {
+      "id": "3323e37f",
+      "joke": "Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride."
+    },
+    {
+      "id": "33604526",
+      "joke": "Why do scuba divers fall backwards out of the boat? Because if they fell forwards they'd still be in the boat."
+    },
+    {
+      "id": "33714393",
+      "joke": "How do locomotives know where they're going? Lots of training"
+    },
+    {
+      "id": "3391a828",
+      "joke": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays."
+    },
+    {
+      "id": "3404d59e",
+      "joke": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out."
+    },
+    {
+      "id": "346e5502",
+      "joke": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible."
+    },
+    {
+      "id": "34aec281",
+      "joke": "Did you hear the rumor about butter Well, I'm not going to spread it!"
+    },
+    {
+      "id": "34e1557d",
+      "joke": "A man tried to sell me a coffin today. I told him that's the last thing I need."
+    },
+    {
+      "id": "354c3464",
+      "joke": "What do bees do after they are married? They go on a honeymoon."
+    },
+    {
+      "id": "355e395e",
+      "joke": "Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords."
+    },
+    {
+      "id": "35744951",
+      "joke": "What is the tallest building in the world? The library – it’s got the most stories!"
+    },
+    {
+      "id": "357e2285",
+      "joke": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me."
+    },
+    {
+      "id": "35b2aa1e",
+      "joke": "The shovel was a ground-breaking invention."
+    },
+    {
+      "id": "35d00dd7",
+      "joke": "How do you get a squirrel to like you Act like a nut."
+    },
+    {
+      "id": "35d6f1e1",
+      "joke": "This is my step ladder. I never knew my real ladder."
+    },
+    {
+      "id": "3642ea42",
+      "joke": "\"Dad, can you put the cat out?\" \"I didn't know it was on fire.\""
+    },
+    {
+      "id": "365fdb55",
+      "joke": "I ordered a chicken and an egg from Amazon. I’ll let you know."
+    },
+    {
+      "id": "367ddc67",
+      "joke": "Why did the programmer quit his job? Because he didn't get arrays."
+    },
+    {
+      "id": "36a12f8c",
+      "joke": "What do you call a Kissan(farmer) stuck in a traffic jam? Kissan Jam!"
+    },
+    {
+      "id": "36c21403",
+      "joke": "How do you make a tissue dance? You put a little boogie on it."
+    },
+    {
+      "id": "3743ff6e",
+      "joke": "A programmer puts two glasses on their bedside table before going to sleep. A full one, in case they get thirsty, and an empty one, in case they don’t."
+    },
+    {
+      "id": "37447ee5",
+      "joke": "Stop searching for the perfect match. Just use a lighter."
+    },
+    {
+      "id": "37943190",
+      "joke": "Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective."
+    },
+    {
+      "id": "37b46826",
+      "joke": "Why was Cinderalla thrown out of the football team? Because she ran away from the ball."
+    },
+    {
+      "id": "37c163bc",
+      "joke": "Why do programmers prefer dark chocolate? Because it's bitter like their code."
+    },
+    {
+      "id": "37eafee0",
+      "joke": "I couldn't figure out the seat belts in my new car... ...but then it clicked."
+    },
+    {
+      "id": "37ef7864",
+      "joke": "I went on a date last night with a girl from the zoo. It was great. She’s a keeper."
+    },
+    {
+      "id": "382b610e",
+      "joke": "How does a train eat? It goes chew, chew"
+    },
+    {
+      "id": "38a1e1f1",
+      "joke": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue."
+    },
+    {
+      "id": "38c80eb8",
+      "joke": "I was going to get a brain transplant, but I changed my mind"
+    },
+    {
+      "id": "396147b0",
+      "joke": "I been watching a channel on TV that is strictly just about origami — of course it is paper-view."
+    },
+    {
+      "id": "39781c62",
+      "joke": "Why do cows not have toes? They lactose!"
+    },
+    {
+      "id": "3978e57f",
+      "joke": "Why did the developer go to therapy? They had too many unresolved issues."
+    },
+    {
+      "id": "39cdaec3",
+      "joke": "I got an A on my origami assignment when I turned my paper into my teacher"
+    },
+    {
+      "id": "39ef91f9",
+      "joke": "What do you call a man with a rubber toe? Roberto."
+    },
+    {
+      "id": "39f06bd3",
+      "joke": "Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!"
+    },
+    {
+      "id": "3a1539cd",
+      "joke": "Where do fancy cats go to the bathroom? The glitter box."
+    },
+    {
+      "id": "3a9030d2",
+      "joke": "Why is seven bigger than nine? Because seven ate nine."
+    },
+    {
+      "id": "3aa2ace0",
+      "joke": "I ate a clock yesterday. It was so time consuming."
+    },
+    {
+      "id": "3ab654b3",
+      "joke": "What’s the difference between a hippo and a zippo One is extremely big and heavy, and the other is a little lighter."
+    },
+    {
+      "id": "3abb51bd",
+      "joke": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!"
+    },
+    {
+      "id": "3ae2cd29",
+      "joke": "What did the Red light say to the Green light? Don't look at me I'm changing!"
+    },
+    {
+      "id": "3b0450fa",
+      "joke": "How can you tell a vampire has a cold? They start coffin."
+    },
+    {
+      "id": "3b35bd8b",
+      "joke": "Why don't skeletons ever go trick or treating? Because they have no body to go with."
+    },
+    {
+      "id": "3b3cf4fe",
+      "joke": "Just read a few facts about frogs. They were ribbiting."
+    },
+    {
+      "id": "3bdec0e8",
+      "joke": "What do you give to a lemon in need? Lemonaid."
+    },
+    {
+      "id": "3c444573",
+      "joke": "Why did the private classes break up? Because they never saw each other."
+    },
+    {
+      "id": "3c7f5db4",
+      "joke": "Why do valley girls hang out in odd numbered groups? Because they can't even."
+    },
+    {
+      "id": "3c93377b",
+      "joke": "Did you hear about the man who cut off his left leg? He’s all right now."
+    },
+    {
+      "id": "3ccbd5fc",
+      "joke": "Why was the big cat disqualified from the race? Because it was a cheetah."
+    },
+    {
+      "id": "3cf69dd3",
+      "joke": "What do birds give out on Halloween? Tweets."
+    },
+    {
+      "id": "3d13cb85",
+      "joke": "Why do we tell actors to “break a leg?” Because every play has a cast."
+    },
+    {
+      "id": "3d160d8a",
+      "joke": "Have you heard about the film \"Constipation\", you probably haven't because it's not out yet."
+    },
+    {
+      "id": "3d89206a",
+      "joke": "Don't look at the eclipse through a colander. You'll strain your eyes."
+    },
+    {
+      "id": "3daf5461",
+      "joke": "Did you hear about the world's greatest watch thief? He stole all the time."
+    },
+    {
+      "id": "3e317018",
+      "joke": "Velcro… What a rip-off."
+    },
+    {
+      "id": "3e4d7b0e",
+      "joke": "Wife: Honey I’m pregnant. Me: Well…. what do we do now? Wife: Well, I guess we should go to a baby doctor. Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor."
+    },
+    {
+      "id": "3e64b04c",
+      "joke": "How do celebrities stay cool? They have a lot of fans."
+    },
+    {
+      "id": "3e7e02f5",
+      "joke": "which flower is most fierce? Dandelion"
+    },
+    {
+      "id": "3ee55ee4",
+      "joke": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
+    },
+    {
+      "id": "3fb78450",
+      "joke": "Why was the picture sent to prison? It was framed."
+    },
+    {
+      "id": "3fba2bfe",
+      "joke": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach."
+    },
+    {
+      "id": "3fff08a9",
+      "joke": "Mom: \"How do I look?\" Dad: \"With your eyes\""
+    },
+    {
+      "id": "404acb9a",
+      "joke": "I made a pencil with two erasers. It was pointless."
+    },
+    {
+      "id": "40a44493",
+      "joke": "Where do young cows eat lunch? In the calf-ateria."
+    },
+    {
+      "id": "40b92450",
+      "joke": "\"What time is it?\" I don't know... it keeps changing."
+    },
+    {
+      "id": "40f0cd26",
+      "joke": "What don't watermelons get married? Because they cantaloupe."
+    },
+    {
+      "id": "40f50f14",
+      "joke": "I used to really hate facial hair. Then one day, it grew on me."
+    },
+    {
+      "id": "4158513d",
+      "joke": "Why don’t eggs tell jokes? They’d crack each other up."
+    },
+    {
+      "id": "41d7ec23",
+      "joke": "What do you call a dog that does magic tricks? A labracadabrador."
+    },
+    {
+      "id": "42572669",
+      "joke": "Kid: \"Dad, make me a sandwich!\" Dad: \"Poof, you're a sandwich!\""
+    },
+    {
+      "id": "42957c1e",
+      "joke": "What do you call a girl between two posts? Annette."
+    },
+    {
+      "id": "42d15211",
+      "joke": "My wife told me to rub the herbs on the meat for better flavor. That's sage advice."
+    },
+    {
+      "id": "434cc64f",
+      "joke": "Where do cats write notes? Scratch Paper!"
+    },
+    {
+      "id": "436cd8ce",
+      "joke": "What do you call a careful wolf? Aware wolf."
+    },
+    {
+      "id": "4388e8ad",
+      "joke": "I have kleptomania when it gets bad, I take something for it."
+    },
+    {
+      "id": "438dfd65",
+      "joke": "My wife asked me to sync her phone, so I threw it in the ocean."
+    },
+    {
+      "id": "4393026f",
+      "joke": "What animal is always at a game of cricket? A bat."
+    },
+    {
+      "id": "43b6ee0e",
+      "joke": "Did you hear about the kidnapping at school? It's ok, he woke up."
+    },
+    {
+      "id": "43fa6e06",
+      "joke": "Why don't programmers like nature? Too many bugs."
+    },
+    {
+      "id": "4411d48d",
+      "joke": "Want to hear a joke about construction? I'm still working on it."
+    },
+    {
+      "id": "441c9bf1",
+      "joke": "What did the husband say to his wife right after LASIK? Aren’t you a sight for sore eyes."
+    },
+    {
+      "id": "442a4911",
+      "joke": "Where does astronauts hangout after work? At the spacebar."
+    },
+    {
+      "id": "44e21ab3",
+      "joke": "What’s E.T. short for? He’s only got little legs."
+    },
+    {
+      "id": "44f7964a",
+      "joke": "Why did the Clydesdale give the pony a glass of water? Because he was a little horse!"
+    },
+    {
+      "id": "451f90dc",
+      "joke": "How many bones are in the human hand? A handful of them."
+    },
+    {
+      "id": "456124fd",
+      "joke": "I wouldn't buy anything with velcro. It's a total rip-off."
+    },
+    {
+      "id": "459a5803",
+      "joke": "What did the big flower say to the littler flower? Hi, bud!"
+    },
+    {
+      "id": "46023e5c",
+      "joke": "What do you call two barracuda fish? A Pairacuda!"
+    },
+    {
+      "id": "461123f5",
+      "joke": "Whoever invented the knock-knock joke should get a no bell prize."
+    },
+    {
+      "id": "4616eecc",
+      "joke": "Why did the girl smear peanut butter on the road? To go with the traffic jam."
+    },
+    {
+      "id": "4699b12f",
+      "joke": "I used to be addicted to soap. I’m clean now."
+    },
+    {
+      "id": "46e225f3",
+      "joke": "Did you hear about the two satellites that got married? The wedding wasn't much, but the reception was incredible."
+    },
+    {
+      "id": "470b2e90",
+      "joke": "Why did the programmer bring a ladder to work? They heard the code needed to be debugged from a higher level."
+    },
+    {
+      "id": "47421bcd",
+      "joke": "I cut my finger chopping cheese, but I think that I may have grater problems."
+    },
+    {
+      "id": "47514179",
+      "joke": "What do you call a singing Laptop A Dell"
+    },
+    {
+      "id": "4776cc0d",
+      "joke": "Why did Shakespeare’s wife leave him She got sick of all the drama."
+    },
+    {
+      "id": "47770006",
+      "joke": "Why are fish easy to weigh? Because they have their own scales."
+    },
+    {
+      "id": "47c38dac",
+      "joke": "How are false teeth like stars? They come out at night!"
+    },
+    {
+      "id": "4818d829",
+      "joke": "It hurts to say this, but I have a sore throat."
+    },
+    {
+      "id": "481c50b7",
+      "joke": "How do you organize an outer space party? You planet"
+    },
+    {
+      "id": "487842dd",
+      "joke": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles."
+    },
+    {
+      "id": "4886eef7",
+      "joke": "I was going to learn how to juggle, but I didn't have the balls."
+    },
+    {
+      "id": "48d2145b",
+      "joke": "I couldn't get a reservation at the library... They were fully booked."
+    },
+    {
+      "id": "48ecb1c2",
+      "joke": "What did one wall say to the other? Meet you at the corner."
+    },
+    {
+      "id": "48f6aa79",
+      "joke": "I was interrogated over the theft of a cheese toastie. Man, they really grilled me."
+    },
+    {
+      "id": "491eea8e",
+      "joke": "What do you call a droid that takes the long way around? R2 detour."
+    },
+    {
+      "id": "496e2413",
+      "joke": "Why couldn't the kid see the pirate movie? Because it was rated arrr!"
+    },
+    {
+      "id": "49991c8b",
+      "joke": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse."
+    },
+    {
+      "id": "49a77ee0",
+      "joke": "Archaeology really is a career in ruins."
+    },
+    {
+      "id": "49c38ca8",
+      "joke": "Why did the opera singer go sailing? They wanted to hit the high Cs."
+    },
+    {
+      "id": "4a04c4c5",
+      "joke": "What do you call a beehive without the b's? An eehive."
+    },
+    {
+      "id": "4a67e36d",
+      "joke": "What did one plate say to the other? Tonight, dinner’s on me."
+    },
+    {
+      "id": "4a9141d7",
+      "joke": "What do you call a lazy kangaroo? A pouch potato."
+    },
+    {
+      "id": "4abcd27c",
+      "joke": "Why did the chicken get a penalty? For fowl play."
+    },
+    {
+      "id": "4b06134c",
+      "joke": "What do you call a deer with no eyes No idea!"
+    },
+    {
+      "id": "4b16c432",
+      "joke": "What do you call an old snowman? Water."
+    },
+    {
+      "id": "4b5a2b8f",
+      "joke": "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    },
+    {
+      "id": "4bc6b7fa",
+      "joke": "Why was the basketball court all wet? People kept dribbling all over it."
+    },
+    {
+      "id": "4bef74a8",
+      "joke": "You know what they say about cliffhangers..."
+    },
+    {
+      "id": "4c18d929",
+      "joke": "Mom: \"I'm going to jump in the shower\" Dad: \"It's probably safer if you just stand\""
+    },
+    {
+      "id": "4c377f2d",
+      "joke": "I started a new business making yachts in my attic this year...the sails are going through the roof"
+    },
+    {
+      "id": "4ca549ba",
+      "joke": "I just got fired from a florist, apparently I took too many leaves."
+    },
+    {
+      "id": "4d1c4b84",
+      "joke": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    },
+    {
+      "id": "4d46656c",
+      "joke": "Bad at golf? Join the club."
+    },
+    {
+      "id": "4d6db913",
+      "joke": "Where does batman go to the bathroom? The batroom."
+    },
+    {
+      "id": "4e2e0819",
+      "joke": "I used to be addicted to soap, but I'm clean now."
+    },
+    {
+      "id": "4e3a5ab8",
+      "joke": "What's the best part about TCP jokes? I get to keep telling them until you get them."
+    },
+    {
+      "id": "4e86a244",
+      "joke": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve."
+    },
+    {
+      "id": "4e86a9a7",
+      "joke": "Why did the invisible man turn down the job offer? He couldn’t see himself doing it."
+    },
+    {
+      "id": "4f0aa8ed",
+      "joke": "Why are mummys scared of vacation? They're afraid to unwind."
+    },
+    {
+      "id": "4f0bcf1b",
+      "joke": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink."
+    },
+    {
+      "id": "4f1471f1",
+      "joke": "What does an angry pepper do? It gets jalapeño your face."
+    },
+    {
+      "id": "4ffed614",
+      "joke": "Did you know that protons have mass? I didn't even know they were catholic."
+    },
+    {
+      "id": "5015a4a8",
+      "joke": "How do you make a Kleenex dance Put a little boogie in it!"
+    },
+    {
+      "id": "5052cdea",
+      "joke": "Do I enjoy making courthouse puns? Guilty"
+    },
+    {
+      "id": "50b44448",
+      "joke": "What is red and smells like blue paint? Red paint!"
+    },
+    {
+      "id": "50c93e5f",
+      "joke": "Why can't eggs have love? They will break up too soon."
+    },
+    {
+      "id": "50db6170",
+      "joke": "There's not really any training for garbagemen. They just pick things up as they go."
+    },
+    {
+      "id": "510c8402",
+      "joke": "Why is the ocean always blue? Because the shore never waves back."
+    },
+    {
+      "id": "51197286",
+      "joke": "Sometimes I tuck my knees into my chest and lean forward. That’s just how I roll."
+    },
+    {
+      "id": "51896e0d",
+      "joke": "My boss told me to have a good day... so I went home."
+    },
+    {
+      "id": "51a6a34a",
+      "joke": "How many tickles does it take to make an octopus laugh Ten-tickles."
+    },
+    {
+      "id": "52534e1c",
+      "joke": "What do you call a snowman having a tantrum? A meltdown."
+    },
+    {
+      "id": "52a10f8c",
+      "joke": "What does a pirate pay for their corn? A buccaneer!"
+    },
+    {
+      "id": "52d3150d",
+      "joke": "My cat was just sick on the carpet, I don’t think it’s feline well."
+    },
+    {
+      "id": "52e322c8",
+      "joke": "What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup."
+    },
+    {
+      "id": "52ee3d00",
+      "joke": "Leather is great for sneaking around because it's made of hide."
+    },
+    {
+      "id": "531490af",
+      "joke": "Just watched a documentary about beavers… It was the best dam program I’ve ever seen."
+    },
+    {
+      "id": "538abe70",
+      "joke": "A dad washes his car with his son. But after a while, the son says, \"why can't you just use a sponge?\""
+    },
+    {
+      "id": "53a79e1c",
+      "joke": "Did you see they made round bales of hay illegal in Wisconsin? It’s because the cows weren’t getting a square meal."
+    },
+    {
+      "id": "53b455e4",
+      "joke": "This furniture store keeps emailing me, all I wanted was one night stand!"
+    },
+    {
+      "id": "53eadf23",
+      "joke": "What's the best thing about elevator jokes? They work on so many levels."
+    },
+    {
+      "id": "54116d08",
+      "joke": "A bartender broke up with her boyfriend, but he kept asking her for another shot."
+    },
+    {
+      "id": "541b43b6",
+      "joke": "Told my wife she was drawing her eyebrows on a bit too high. She looked surprised."
+    },
+    {
+      "id": "542122c4",
+      "joke": "If I could name myself after any Egyptian god, I'd be Set."
+    },
+    {
+      "id": "5425f2bb",
+      "joke": "What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all."
+    },
+    {
+      "id": "542616c3",
+      "joke": "Why did the scarecrow get a promotion? He was outstanding in his field."
+    },
+    {
+      "id": "548f3d99",
+      "joke": "What do you call Santa’s little helpers Subordinate clauses."
+    },
+    {
+      "id": "54a91937",
+      "joke": "This graveyard looks overcrowded. People must be dying to get in there."
+    },
+    {
+      "id": "54d14d36",
+      "joke": "Why do mathematicians hate the U.S.? Because it's indivisible."
+    },
+    {
+      "id": "551e3cf3",
+      "joke": "What did the janitor say when he jumped out of the closet? Supplies!"
+    },
+    {
+      "id": "55358d92",
+      "joke": "It takes guts to be an organ donor."
+    },
+    {
+      "id": "555470ef",
+      "joke": "I made a belt out of watches once... It was a waist of time."
+    },
+    {
+      "id": "559a298f",
+      "joke": "What's red and smells like paint? Red paint."
+    },
+    {
+      "id": "55c5240a",
+      "joke": "What did the 0 say to the 8? Nice belt."
+    },
+    {
+      "id": "5600672b",
+      "joke": "I invented a new word! Plagiarism!"
+    },
+    {
+      "id": "560540fe",
+      "joke": "What did the doctor say to the gingerbread man who broke his leg? Try icing it."
+    },
+    {
+      "id": "56387326",
+      "joke": "What do computers and air conditioners have in common? They both become useless when you open windows."
+    },
+    {
+      "id": "56724add",
+      "joke": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta."
+    },
+    {
+      "id": "573ac6b5",
+      "joke": "Why couldn’t the pony sing? She was a little hoarse."
+    },
+    {
+      "id": "5791b5e0",
+      "joke": "I boiled a funny bone last night and had a laughing stock"
+    },
+    {
+      "id": "581d6577",
+      "joke": "How was the snow globe feeling after the storm? A little shaken."
+    },
+    {
+      "id": "58273a42",
+      "joke": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. This made him a super calloused fragile mystic hexed by halitosis."
+    },
+    {
+      "id": "583a5900",
+      "joke": "What do you call a boy who stopped digging holes? Douglas."
+    },
+    {
+      "id": "585d7c7d",
+      "joke": "Why don't skeletons ride roller coasters? They don't have the stomach for it."
+    },
+    {
+      "id": "5862bafa",
+      "joke": "I always wanted to look into why I procrastinate, but I keep putting it off."
+    },
+    {
+      "id": "58b16fbb",
+      "joke": "Sore throats are a real pain in the neck."
+    },
+    {
+      "id": "58e55573",
+      "joke": "What do prisoners use to call each other? Cell phones."
+    },
+    {
+      "id": "58f533ff",
+      "joke": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am."
+    },
+    {
+      "id": "5934dae0",
+      "joke": "Why couldn't the bicycle stand up by itself? It was two tired."
+    },
+    {
+      "id": "596da5d0",
+      "joke": "What do you call a duck that gets all A's? A wise quacker."
+    },
+    {
+      "id": "597610b0",
+      "joke": "CASHIER \"Would you like the milk in a bag, sir \" DAD \"No, just leave it in the carton!’”"
+    },
+    {
+      "id": "59d509d8",
+      "joke": "How good are you at Power Point? I Excel at it."
+    },
+    {
+      "id": "59d5685d",
+      "joke": "How does the moon cut its hair? Eclipse it."
+    },
+    {
+      "id": "5a18de4a",
+      "joke": "Ever wondered why bees hum? It's because they don't know the words."
+    },
+    {
+      "id": "5a76d4c9",
+      "joke": "Why did the sentence fail the driving test? It never came to a full stop."
+    },
+    {
+      "id": "5a7832ec",
+      "joke": "A rancher asked me to help round up his 18 cows. I said sure, that’ll be 20 cows."
+    },
+    {
+      "id": "5ab601a5",
+      "joke": "Why should you never trust a pig with a secret? Because it's bound to squeal."
+    },
+    {
+      "id": "5ac72b0d",
+      "joke": "Why did the coffee file a police report? It got mugged."
+    },
+    {
+      "id": "5afd9e32",
+      "joke": "Why did the kid throw the watch out the window? So time would fly."
+    },
+    {
+      "id": "5b37d065",
+      "joke": "To the person who stole my anti-depressant pills: I hope you're happy now."
+    },
+    {
+      "id": "5b784074",
+      "joke": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U."
+    },
+    {
+      "id": "5b7924e2",
+      "joke": "Did you hear about the bread factory burning down? They say the business is toast."
+    },
+    {
+      "id": "5bc19690",
+      "joke": "I have kleptomania, but when it gets bad, I take something for it."
+    },
+    {
+      "id": "5c0583c5",
+      "joke": "Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U."
+    },
+    {
+      "id": "5c0c4d9e",
+      "joke": "What's a ninja's favorite type of shoes? Sneakers!"
+    },
+    {
+      "id": "5c0d4fc7",
+      "joke": "What do you get if you cross a turkey with a ghost? A poultry-geist!"
+    },
+    {
+      "id": "5c7f631b",
+      "joke": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady."
+    },
+    {
+      "id": "5cd92fee",
+      "joke": "I don’t trust those trees over there. They look kind of shady."
+    },
+    {
+      "id": "5d1cc567",
+      "joke": "Some people eat light bulbs. They say it's a nice light snack."
+    },
+    {
+      "id": "5e4938c4",
+      "joke": "Why did the programmer go broke? He used up all his cache"
+    },
+    {
+      "id": "5e8f5224",
+      "joke": "Atheism is a non-prophet organisation."
+    },
+    {
+      "id": "5ea8b83f",
+      "joke": "Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel. You can only use a low ha."
+    },
+    {
+      "id": "5ec705be",
+      "joke": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\""
+    },
+    {
+      "id": "5ee04182",
+      "joke": "Dogs can’t operate MRI machines. But catscan."
+    },
+    {
+      "id": "5ee354e0",
+      "joke": "What do you call sad coffee? Despresso."
+    },
+    {
+      "id": "5f5a8ef6",
+      "joke": "What's the difference between a seal and a sea lion? An ion!"
+    },
+    {
+      "id": "5f5dfbb2",
+      "joke": "What do you do when your bunny gets wet? You get your hare dryer."
+    },
+    {
+      "id": "5f6e24d7",
+      "joke": "I was fired from the keyboard factory yesterday. I wasn't putting in enough shifts."
+    },
+    {
+      "id": "5f96935b",
+      "joke": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?"
+    },
+    {
+      "id": "5fcdb8ee",
+      "joke": "Where do you learn to make banana splits? At sundae school."
+    },
+    {
+      "id": "6038f8b5",
+      "joke": "What do you do when you see a space man? Park your car, man."
+    },
+    {
+      "id": "6043ec21",
+      "joke": "What did the beaver say to the tree? It's been nice gnawing you."
+    },
+    {
+      "id": "60442d8d",
+      "joke": "What’s the advantage of living in Switzerland? Well, the flag is a big plus."
+    },
+    {
+      "id": "60584c28",
+      "joke": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily."
+    },
+    {
+      "id": "607f6916",
+      "joke": "There are 10 types of people in this world... Those who understand binary and those who don't"
+    },
+    {
+      "id": "608151e0",
+      "joke": "I used to be a banker, but I lost interest."
+    },
+    {
+      "id": "60909459",
+      "joke": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”"
+    },
+    {
+      "id": "6095ebd3",
+      "joke": "Animal Fact #25: Most bobcats are not named bob."
+    },
+    {
+      "id": "60f18f46",
+      "joke": "What's large, grey, and doesn't matter? An irrelephant."
+    },
+    {
+      "id": "6109e2ac",
+      "joke": "I used to work at a soft drink can crushing company it was soda pressing."
+    },
+    {
+      "id": "611f146a",
+      "joke": "What is the only concert in the world that costs 45 cents? 50 Cent, featuring Nickelback."
+    },
+    {
+      "id": "62026a53",
+      "joke": "Why did the house go to the doctor? It was having window panes."
+    },
+    {
+      "id": "620643dd",
+      "joke": "Why was Santa's little helper feeling depressed? Because he has low elf esteem."
+    },
+    {
+      "id": "62298693",
+      "joke": "I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen."
+    },
+    {
+      "id": "62408fc7",
+      "joke": "Why did the mushroom get invited to the party? Because he was a fungi."
+    },
+    {
+      "id": "62595100",
+      "joke": "Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on."
+    },
+    {
+      "id": "62a4f4c3",
+      "joke": "How do you teach a kid to climb stairs? There is a step by step guide."
+    },
+    {
+      "id": "62f28f4a",
+      "joke": "Don't buy flowers at a monastery. Because only you can prevent florist friars."
+    },
+    {
+      "id": "6358c9b1",
+      "joke": "I'm glad I know sign language, it's pretty handy."
+    },
+    {
+      "id": "6373fd16",
+      "joke": "What time did you go to the dentist yesterday Tooth-hurty."
+    },
+    {
+      "id": "64399c70",
+      "joke": "Why did the math book look so sad? Because of all its problems!"
+    },
+    {
+      "id": "64cc547d",
+      "joke": "\"Why do seagulls fly over the ocean?\" \"Because if they flew over the bay, we'd call them bagels.\""
+    },
+    {
+      "id": "6527594c",
+      "joke": "What's black and white and read all over? The newspaper."
+    },
+    {
+      "id": "6543b86d",
+      "joke": "Why don’t you ever see elephants hiding in trees? Because they’re really good at it."
+    },
+    {
+      "id": "66186692",
+      "joke": "How do the trees get on the internet? They log on."
+    },
+    {
+      "id": "6696c2ea",
+      "joke": "What do you call a fly without wings? A walk."
+    },
+    {
+      "id": "67030cc6",
+      "joke": "They're making a movie about clocks. It's about time"
+    },
+    {
+      "id": "67fc9003",
+      "joke": "I'm reading a book about anti-gravity... It's impossible to put down"
+    },
+    {
+      "id": "682f87c2",
+      "joke": "If two vegans are having an argument, is it still considered beef?"
+    },
+    {
+      "id": "6871cd40",
+      "joke": "Yesterday a clown held a door open for me. I thought it was a nice jester."
+    },
+    {
+      "id": "6914e0ee",
+      "joke": "If you see a robbery at an Apple Store, what are you? An iWitness."
+    },
+    {
+      "id": "696f2026",
+      "joke": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright."
+    },
+    {
+      "id": "69978b05",
+      "joke": "Why are ghosts bad liars? Because you can see right through them!"
+    },
+    {
+      "id": "69a64b76",
+      "joke": "What do you call an alligator in a vest? An in-vest-igator!"
+    },
+    {
+      "id": "69fcc479",
+      "joke": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right."
+    },
+    {
+      "id": "6a19bc07",
+      "joke": "What did the zero say to the eight? Nice belt."
+    },
+    {
+      "id": "6a35d956",
+      "joke": "What do you call a laughing motorcycle? A Yamahahahaha."
+    },
+    {
+      "id": "6a42aa1a",
+      "joke": "There’s a new type of broom out, it’s sweeping the nation."
+    },
+    {
+      "id": "6a6a4517",
+      "joke": "RIP boiled water. You will be mist."
+    },
+    {
+      "id": "6a860795",
+      "joke": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day."
+    },
+    {
+      "id": "6ac8b775",
+      "joke": "Chances are if you've seen one shopping center, you've seen a mall."
+    },
+    {
+      "id": "6af9607d",
+      "joke": "How do you organize a space party? You planet."
+    },
+    {
+      "id": "6b2914aa",
+      "joke": "Conjunctivitis.com – now that’s a site for sore eyes."
+    },
+    {
+      "id": "6b415eeb",
+      "joke": "Did you know corduroy pillows are back in style? They’re making headlines."
+    },
+    {
+      "id": "6b6fc1e7",
+      "joke": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!"
+    },
+    {
+      "id": "6b854a48",
+      "joke": "Why was the broom late for the meeting? He overswept."
+    },
+    {
+      "id": "6b923f45",
+      "joke": "I met this girl on a dating site and, I don't know, we just clicked."
+    },
+    {
+      "id": "6b94483b",
+      "joke": "\"I'll call you later.\" Don't call me later, call me Dad."
+    },
+    {
+      "id": "6ba1e25c",
+      "joke": "What's big and hairy and wears a bow tie? Bigfoot at a fancy party."
+    },
+    {
+      "id": "6bbf3193",
+      "joke": "Why did the octopus beat the shark in a fight? Because it was well armed."
+    },
+    {
+      "id": "6cd63365",
+      "joke": "What kind of music do welders like? Heavy metal."
+    },
+    {
+      "id": "6d4b05ec",
+      "joke": "What's the difference between the moon and a cheeseburger? The moon is in the sky, a cheeseburger is in THIS guy. (Points to belly)"
+    },
+    {
+      "id": "6d4e5e48",
+      "joke": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?"
+    },
+    {
+      "id": "6d6306be",
+      "joke": "Did you hear about the runner who was criticized? He just took it in stride"
+    },
+    {
+      "id": "6dbde38a",
+      "joke": "Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25."
+    },
+    {
+      "id": "6e3b1489",
+      "joke": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”"
+    },
+    {
+      "id": "6e887b0b",
+      "joke": "What do you call your friend who stands in a hole? Phil."
+    },
+    {
+      "id": "6eadc888",
+      "joke": "Have you ever seen fruit preserves being made? It's jarring."
+    },
+    {
+      "id": "6ecaedee",
+      "joke": "Why couldn't the bicycle stand up by itself? It was two-tired."
+    },
+    {
+      "id": "6ef8737f",
+      "joke": "Why did the programmer go to art school? He wanted to learn how to code outside the box."
+    },
+    {
+      "id": "6f0de8a7",
+      "joke": "Why did the programmer quit their job? They didn't get arrays."
+    },
+    {
+      "id": "6f70dcde",
+      "joke": "What do you call a cheese that isn’t yours? Nacho cheese!"
+    },
+    {
+      "id": "6f7b8af1",
+      "joke": "You're American when you go into the bathroom, and you're American when you come out, but do you know what you are while you're in there? European."
+    },
+    {
+      "id": "7003db4c",
+      "joke": "Why is no one friends with Dracula? Because he's a pain in the neck."
+    },
+    {
+      "id": "704ba39d",
+      "joke": "I won an argument with a weather forecaster once. His logic was cloudy..."
+    },
+    {
+      "id": "70ba8849",
+      "joke": "What’s brown and sounds like a bell? Dung!"
+    },
+    {
+      "id": "70d2d2cf",
+      "joke": "Hear about the guy that got fired from the calendar factory? He took too many days off."
+    },
+    {
+      "id": "70e27540",
+      "joke": "Why couldn't the lifeguard save the hippie? He was too far out, man."
+    },
+    {
+      "id": "716807c8",
+      "joke": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years."
+    },
+    {
+      "id": "716a960c",
+      "joke": "You will never guess what Elsa did to the balloon. She let it go."
+    },
+    {
+      "id": "718436db",
+      "joke": "What do you call a suspicious looking laptop? Asus"
+    },
+    {
+      "id": "71bf9913",
+      "joke": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up"
+    },
+    {
+      "id": "71e1d95f",
+      "joke": "Why can't bicycles stand on their own? They are two tired"
+    },
+    {
+      "id": "72300ac0",
+      "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+    },
+    {
+      "id": "726a6b5c",
+      "joke": "I’d tell you a UDP joke, but you might not get it."
+    },
+    {
+      "id": "727eec6a",
+      "joke": "What do you call two octopuses that look identical? Itenticle."
+    },
+    {
+      "id": "72816314",
+      "joke": "Why can't your nose be 12 inches long? Because then it'd be a foot!"
+    },
+    {
+      "id": "72958d9f",
+      "joke": "The past, the present, and the future walked into a bar. It was tense."
+    },
+    {
+      "id": "729a62a1",
+      "joke": "A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”"
+    },
+    {
+      "id": "73112329",
+      "joke": "Why are football stadiums so cool? Because every seat has a fan in it."
+    },
+    {
+      "id": "7337bf74",
+      "joke": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold."
+    },
+    {
+      "id": "733edc2a",
+      "joke": "My New Years resolution is to stop leaving things so late."
+    },
+    {
+      "id": "7345b831",
+      "joke": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece."
+    },
+    {
+      "id": "734fc159",
+      "joke": "No matter how kind you are, German children are kinder."
+    },
+    {
+      "id": "73788d1f",
+      "joke": "Why did the butcher work extra hours at the shop? To make ends meat."
+    },
+    {
+      "id": "7390c5be",
+      "joke": "What did one wall say to the other wall? I'll meet you at the corner!"
+    },
+    {
+      "id": "73d48fc3",
+      "joke": "I used to work in a shoe recycling shop. It was sole destroying."
+    },
+    {
+      "id": "73e5806e",
+      "joke": "How do you make a water bed more bouncy. You use Spring Water"
+    },
+    {
+      "id": "742ac25a",
+      "joke": "What musical instrument is found in the bathroom? A tuba toothpaste."
+    },
+    {
+      "id": "746f4592",
+      "joke": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
+    },
+    {
+      "id": "749d440d",
+      "joke": "What do you get when you cross a rabbit with a water hose? Hare spray."
+    },
+    {
+      "id": "74abc70c",
+      "joke": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo."
+    },
+    {
+      "id": "7500b52f",
+      "joke": "I hate perforated lines, they're tearable."
+    },
+    {
+      "id": "751e15eb",
+      "joke": "I once lost a banana at court but then I appealed."
+    },
+    {
+      "id": "756260cb",
+      "joke": "How come the stadium got hot after the game? Because all of the fans left."
+    },
+    {
+      "id": "75e5c3a9",
+      "joke": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\"."
+    },
+    {
+      "id": "76269f6c",
+      "joke": "What does a pirate pay for his corn? A buccaneer!"
+    },
+    {
+      "id": "76abe90d",
+      "joke": "I am so good at sleeping I can do it with my eyes closed!"
+    },
+    {
+      "id": "76d149d2",
+      "joke": "Why was the rookie cop assigned to track down the cannibal? The more seasoned officers had already been eaten."
+    },
+    {
+      "id": "7728b368",
+      "joke": "How does a French skeleton say hello? Bone-jour."
+    },
+    {
+      "id": "7740df5a",
+      "joke": "Why did the developer quit his job? Because he didn't get arrays."
+    },
+    {
+      "id": "774c23dd",
+      "joke": "Whiteboards ... are remarkable."
+    },
+    {
+      "id": "7753740f",
+      "joke": "What do you call a fish with no eyes? A fsh."
+    },
+    {
+      "id": "778874fe",
+      "joke": "What kind of bagel can fly? A plain bagel."
+    },
+    {
+      "id": "779d1aa8",
+      "joke": "I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions."
+    },
+    {
+      "id": "77a355bf",
+      "joke": "Cooking out this weekend? Don’t forget the pickle. It’s kind of a big dill."
+    },
+    {
+      "id": "77b6a726",
+      "joke": "What do you call a monkey in a mine field? A babooooom!"
+    },
+    {
+      "id": "77b93f00",
+      "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian."
+    },
+    {
+      "id": "77e5b782",
+      "joke": "What do I look like? A JOKE MACHINE!?"
+    },
+    {
+      "id": "780b8f03",
+      "joke": "What's the best thing about Switzerland? I don't know, but their flag is a big plus."
+    },
+    {
+      "id": "782607d1",
+      "joke": "How do you fix a damaged jack-o-lantern? You use a pumpkin patch."
+    },
+    {
+      "id": "784bd698",
+      "joke": "Why did the banana go to the doctor? He was not \"peeling\" well."
+    },
+    {
+      "id": "787907b2",
+      "joke": "What is this movie about? It is about 2 hours long."
+    },
+    {
+      "id": "797fa4c0",
+      "joke": "Why did the barber win the race? He took a short cut."
+    },
+    {
+      "id": "7989982c",
+      "joke": "Did you hear the story about the cheese that saved the world? It was legend dairy."
+    },
+    {
+      "id": "7a0c6f74",
+      "joke": "3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table."
+    },
+    {
+      "id": "7a157688",
+      "joke": "Why did the tree go to the dentist? It needed a root canal."
+    },
+    {
+      "id": "7a37abb2",
+      "joke": "Why did the cookie cry? Because its mother was a wafer so long"
+    },
+    {
+      "id": "7a95ad1d",
+      "joke": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program the rest of them will write Perl"
+    },
+    {
+      "id": "7acf83d9",
+      "joke": "I couldn't figure out how the seat belt worked. Then it just clicked."
+    },
+    {
+      "id": "7b3db1cd",
+      "joke": "I got fired from a florist, apparently I took too many leaves."
+    },
+    {
+      "id": "7b74bd1d",
+      "joke": "How do you comfort a designer? You give them some space... between the elements."
+    },
+    {
+      "id": "7b990b6e",
+      "joke": "What do you call cheese by itself? Provolone."
+    },
+    {
+      "id": "7c0ac7bb",
+      "joke": "There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke."
+    },
+    {
+      "id": "7c611236",
+      "joke": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name."
+    },
+    {
+      "id": "7ca9ca63",
+      "joke": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV."
+    },
+    {
+      "id": "7cb677fd",
+      "joke": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck."
+    },
+    {
+      "id": "7cef479a",
+      "joke": "I've never gone to a gun range before. I decided to give it a shot!"
+    },
+    {
+      "id": "7d507d5a",
+      "joke": "How many tickles does it take to tickle an octopus? Ten-tickles!"
+    },
+    {
+      "id": "7dabf056",
+      "joke": "A termite walks into a bar and asks “Is the bar tender here?”"
+    },
+    {
+      "id": "7e1dcc65",
+      "joke": "An IPv6 packet is walking out of the house. He goes nowhere."
+    },
+    {
+      "id": "7e560f7d",
+      "joke": "I never buy anything that has Velcro with it it’s a total rip-off."
+    },
+    {
+      "id": "7e7045d8",
+      "joke": "Knock knock. Who's there? Opportunity. That is impossible. Opportunity doesn’t come knocking twice!"
+    },
+    {
+      "id": "7e900cc0",
+      "joke": "I got a reversible jacket for Christmas, I can't wait to see how it turns out."
+    },
+    {
+      "id": "7ea3511a",
+      "joke": "Is there a hole in your shoe? No… Then how’d you get your foot in it?"
+    },
+    {
+      "id": "7eaf6dc3",
+      "joke": "Why did the coach go to the bank? To get his quarter back."
+    },
+    {
+      "id": "7ef20420",
+      "joke": "What did the late tomato say to the early tomato? I’ll ketch up"
+    },
+    {
+      "id": "7f0ca651",
+      "joke": "Want to hear a construction joke Sorry, I’m still working on it."
+    },
+    {
+      "id": "7f758ccf",
+      "joke": "What did the air conditioner say when it met a celebrity? I’m a big fan."
+    },
+    {
+      "id": "7f84f0de",
+      "joke": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea."
+    },
+    {
+      "id": "7f947ad8",
+      "joke": "Did you hear the rumor about butter? Never mind — I shouldn’t spread it."
+    },
+    {
+      "id": "7facb254",
+      "joke": "Who is the coolest Doctor in the hospital? The hip Doctor!"
+    },
+    {
+      "id": "7fd6d000",
+      "joke": "Why was ten scared of seven? Because seven ate nine."
+    },
+    {
+      "id": "7fe83eb8",
+      "joke": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel"
+    },
+    {
+      "id": "8036d2d3",
+      "joke": "What is the most used language in programming? Profanity."
+    },
+    {
+      "id": "80e5d05d",
+      "joke": "Have you heard the pizza joke that's going around the internet? It's a little cheesy."
+    },
+    {
+      "id": "80fde091",
+      "joke": "Want to hear my paper joke? Never mind, it's tearable."
+    },
+    {
+      "id": "8157697f",
+      "joke": "Mountains aren't just funny, they are hill areas"
+    },
+    {
+      "id": "818010f5",
+      "joke": "Waking up this morning was an eye-opening experience."
+    },
+    {
+      "id": "825d457d",
+      "joke": "It was raining cats and dogs the other day. I almost stepped in a poodle."
+    },
+    {
+      "id": "82926696",
+      "joke": "What did one plate say to the other plate? Dinner is on me!"
+    },
+    {
+      "id": "82c8c04a",
+      "joke": "What do you call a fat psychic? A four-chin teller."
+    },
+    {
+      "id": "833f5a09",
+      "joke": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there? European"
+    },
+    {
+      "id": "83af9727",
+      "joke": "My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt."
+    },
+    {
+      "id": "83e3d4e9",
+      "joke": "My dentist is the best, he even has a little plaque!"
+    },
+    {
+      "id": "84460f58",
+      "joke": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer."
+    },
+    {
+      "id": "8452b14c",
+      "joke": "Why do pumpkins sit on people’s porches? They have no hands to knock on the door."
+    },
+    {
+      "id": "8461cea1",
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in its field."
+    },
+    {
+      "id": "84911a1a",
+      "joke": "Did you hear the one about the guy with the broken hearing aid? Neither did he."
+    },
+    {
+      "id": "849db6b5",
+      "joke": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned."
+    },
+    {
+      "id": "84d3fa4c",
+      "joke": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out."
+    },
+    {
+      "id": "8522f35e",
+      "joke": "I bought the world’s worst thesaurus yesterday. Not only is it terrible, it’s also terrible."
+    },
+    {
+      "id": "854f7d2b",
+      "joke": "What's blue and not very heavy? Light blue."
+    },
+    {
+      "id": "8556e457",
+      "joke": "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!"
+    },
+    {
+      "id": "8586c880",
+      "joke": "Why do choirs keep buckets handy? So they can carry their tune"
+    },
+    {
+      "id": "85f134e8",
+      "joke": "What's the best time to go to the dentist? Tooth hurty."
+    },
+    {
+      "id": "8615f3eb",
+      "joke": "Whats a penguins favorite relative? Aunt Arctica."
+    },
+    {
+      "id": "8633d1a7",
+      "joke": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!"
+    },
+    {
+      "id": "863c4219",
+      "joke": "I used to work for an origami company but they folded."
+    },
+    {
+      "id": "8651981f",
+      "joke": "Why do you never see elephants hiding in trees? Because they're so good at it."
+    },
+    {
+      "id": "86622054",
+      "joke": "I got hit in the head by a soda can, but it didn't hurt that much... It was a soft drink."
+    },
+    {
+      "id": "86859d00",
+      "joke": "Where did Captain Hook get his hook From the second-hand store."
+    },
+    {
+      "id": "871cf5d4",
+      "joke": "Wife says I never listen — or something like that."
+    },
+    {
+      "id": "8732a185",
+      "joke": "Why can't you hear a pterodactyl go to the bathroom Because the pee is silent."
+    },
+    {
+      "id": "87811f35",
+      "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan."
+    },
+    {
+      "id": "8786a610",
+      "joke": "Two goldfish are in a tank. One turns to the other and asks, “Any idea how to drive this thing?”"
+    },
+    {
+      "id": "878b1180",
+      "joke": "Guy told me today he did not know what cloning is. I told him, \"that makes 2 of us.\""
+    },
+    {
+      "id": "878e3fb7",
+      "joke": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!"
+    },
+    {
+      "id": "88430722",
+      "joke": "I'd like to start a diet, but I've got too much on my plate right now."
+    },
+    {
+      "id": "88dbf5ac",
+      "joke": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\" Pop,goes the weasel."
+    },
+    {
+      "id": "88fde65a",
+      "joke": "Why is it so windy inside an arena? All those fans."
+    },
+    {
+      "id": "8968a9e3",
+      "joke": "Can I watch the TV? Yes, but don’t turn it on."
+    },
+    {
+      "id": "896c996e",
+      "joke": "What do you call an eagle who can play the piano? Talonted!"
+    },
+    {
+      "id": "897301dc",
+      "joke": "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me."
+    },
+    {
+      "id": "8983db3b",
+      "joke": "Did you hear about the kidnapping at school? It's fine, he woke up."
+    },
+    {
+      "id": "899e7d3b",
+      "joke": "Why are oranges the smartest fruit? Because they are made to concentrate."
+    },
+    {
+      "id": "8a8f7427",
+      "joke": "How do you make a tissue dance? Put a little boogie in it."
+    },
+    {
+      "id": "8b1af00b",
+      "joke": "I tried to catch some fog earlier. I mist."
+    },
+    {
+      "id": "8b96c507",
+      "joke": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did."
+    },
+    {
+      "id": "8bc3974a",
+      "joke": "Why do optimists have to wear sunglasses? Because they're always looking on the bright side."
+    },
+    {
+      "id": "8bd77848",
+      "joke": "How many apples grow on an apple tree? All of them."
+    },
+    {
+      "id": "8c5e0380",
+      "joke": "I used to be addicted to the hokey pokey, but I turned myself around."
+    },
+    {
+      "id": "8d771dde",
+      "joke": "What’s red and smells like blue paint? Red paint."
+    },
+    {
+      "id": "8dabedb6",
+      "joke": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks."
+    },
+    {
+      "id": "8db7f675",
+      "joke": "They tried to make a diamond shaped like a duck. It quacked under the pressure."
+    },
+    {
+      "id": "8dbd7285",
+      "joke": "I decided to sell my Hoover… well it was just collecting dust."
+    },
+    {
+      "id": "8e0c9919",
+      "joke": "It’s hard to explain puns to kleptomaniacs, because they take everything literally."
+    },
+    {
+      "id": "8e1430f7",
+      "joke": "A man is washing the car with his son. The son asks...... \"Dad, can’t you just use a sponge?\""
+    },
+    {
+      "id": "8e2dd1dd",
+      "joke": "Hear about the guy that stayed up all night wondering where the sun had gone? It finally dawned on him."
+    },
+    {
+      "id": "8e4a6a97",
+      "joke": "Man, I really love my furniture... me and my recliner go way back."
+    },
+    {
+      "id": "8ecbd4cd",
+      "joke": "The other day I was listening to a song about superglue, it’s been stuck in my head ever since."
+    },
+    {
+      "id": "8f7e0b05",
+      "joke": "Why are pirates called pirates? Because they arrr!"
+    },
+    {
+      "id": "90b19f61",
+      "joke": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers"
+    },
+    {
+      "id": "90bba8fc",
+      "joke": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive."
+    },
+    {
+      "id": "91560027",
+      "joke": "Why are graveyards so noisy? Because of all the coffin."
+    },
+    {
+      "id": "92242b66",
+      "joke": "The best time on a clock is 6:30--hands down."
+    },
+    {
+      "id": "922b352f",
+      "joke": "As I suspected, someone has been adding soil to my garden. The plot thickens."
+    },
+    {
+      "id": "92305127",
+      "joke": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy."
+    },
+    {
+      "id": "923b31c5",
+      "joke": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s."
+    },
+    {
+      "id": "926feadc",
+      "joke": "Why did the cookie cry? It was feeling crumby."
+    },
+    {
+      "id": "92ed6b9f",
+      "joke": "Dad, did you get a haircut? No I got them all cut."
+    },
+    {
+      "id": "92ff7b0e",
+      "joke": "How do you get two whales in a car? Start in England and drive West."
+    },
+    {
+      "id": "935eae91",
+      "joke": "I had a dream that I was a muffler last night. I woke up exhausted!"
+    },
+    {
+      "id": "93629a83",
+      "joke": "What did one pirate say to the other when he beat him at chess? Checkmatey."
+    },
+    {
+      "id": "9448c259",
+      "joke": "Inflation is really getting out of hand — but that’s just my five cents."
+    },
+    {
+      "id": "9479c1f9",
+      "joke": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie."
+    },
+    {
+      "id": "94bad37e",
+      "joke": "How do you steal a coat? You jacket."
+    },
+    {
+      "id": "94d722e0",
+      "joke": "What is the best way to carve? Whittle by whittle."
+    },
+    {
+      "id": "94f2faa6",
+      "joke": "What does C.S. Lewis keep at the back of his wardrobe? Narnia business!"
+    },
+    {
+      "id": "95720b1c",
+      "joke": "Why don't you find hippopotamuses hiding in trees? They're really good at it."
+    },
+    {
+      "id": "9608b7a2",
+      "joke": "How does Darth Vader like his toast? On the dark side."
+    },
+    {
+      "id": "960cd5a8",
+      "joke": "Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside."
+    },
+    {
+      "id": "96738bb3",
+      "joke": "What did the drummer name her twin daughters? Anna One, Anna Two..."
+    },
+    {
+      "id": "9678ccb5",
+      "joke": "How do you generate a random string? Put a Windows user in front of Vim and tell them to exit."
+    },
+    {
+      "id": "967dac21",
+      "joke": "How do celebrities stay cool? They have many fans"
+    },
+    {
+      "id": "9688bd6d",
+      "joke": "They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure."
+    },
+    {
+      "id": "96bb066d",
+      "joke": "People who don't eat gluten are really going against the grain."
+    },
+    {
+      "id": "96e987ec",
+      "joke": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome"
+    },
+    {
+      "id": "97240fa9",
+      "joke": "While I was sleeping my friends decided to write math equations on me. You should have seen the expression on my face when I woke up."
+    },
+    {
+      "id": "979787c4",
+      "joke": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water."
+    },
+    {
+      "id": "97e68dd7",
+      "joke": "I’m afraid for the calendar. Its days are numbered."
+    },
+    {
+      "id": "98013620",
+      "joke": "Do you know where you can get chicken broth in bulk? The stock market."
+    },
+    {
+      "id": "99b5876d",
+      "joke": "How does a dyslexic poet write? Inverse."
+    },
+    {
+      "id": "99caaab9",
+      "joke": "What concert costs only 45 cents? 50 cent featuring Nickelback."
+    },
+    {
+      "id": "99e4a551",
+      "joke": "I bought some shoes from a drug dealer. I don’t know what he laced them with, but I’ve been tripping all day."
+    },
+    {
+      "id": "99e841ef",
+      "joke": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
+    },
+    {
+      "id": "9a86ef85",
+      "joke": "Why did the bicycle fall over? It was two-tired."
+    },
+    {
+      "id": "9a96af08",
+      "joke": "What kind of music do mummy's like? Rap"
+    },
+    {
+      "id": "9ae7f3b0",
+      "joke": "When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow"
+    },
+    {
+      "id": "9b0d1492",
+      "joke": "What's a computer's favorite snack? Microchips."
+    },
+    {
+      "id": "9b61e8d5",
+      "joke": "I considered building the patio by myself. But I didn't have the stones."
+    },
+    {
+      "id": "9b8e70f9",
+      "joke": "Why didn’t the orange win the race? It ran out of juice."
+    },
+    {
+      "id": "9bdf01c7",
+      "joke": "Why did the chicken cross the playground? To get to the other slide."
+    },
+    {
+      "id": "9bedb4cb",
+      "joke": "Did you hear about the restaurant on the moon? Great food. No atmosphere."
+    },
+    {
+      "id": "9c322182",
+      "joke": "I know plenty of jokes about retired people. None of them work."
+    },
+    {
+      "id": "9cc6cc8b",
+      "joke": "What do you call two monkeys sharing one Amazon account? Prime mates."
+    },
+    {
+      "id": "9d53b976",
+      "joke": "Geology rocks, but Geography is where it's at!"
+    },
+    {
+      "id": "9d958b09",
+      "joke": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion."
+    },
+    {
+      "id": "9dbf6fdb",
+      "joke": "I told my doctor I keep hearing buzzing. He said it’s probably just a bug going around."
+    },
+    {
+      "id": "9dcfcc86",
+      "joke": "Why do pirates not know the alphabet? They always get stuck at \"C\"."
+    },
+    {
+      "id": "9e3d2616",
+      "joke": "Why do birds fly south for the winter? Because it's too far to walk."
+    },
+    {
+      "id": "9e4494d0",
+      "joke": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
+    },
+    {
+      "id": "9e952af3",
+      "joke": "Why did the cookie cry? Because his mother was a wafer so long"
+    },
+    {
+      "id": "9ee904e2",
+      "joke": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going."
+    },
+    {
+      "id": "9f09c06a",
+      "joke": "What is a centipede's favorite Beatles song? I want to hold your hand, hand, hand, hand..."
+    },
+    {
+      "id": "9f28c94a",
+      "joke": "Finally realized why my plant sits around doing nothing all day... He loves his pot."
+    },
+    {
+      "id": "9f448627",
+      "joke": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool."
+    },
+    {
+      "id": "9f4cf109",
+      "joke": "Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!"
+    },
+    {
+      "id": "9f7a457e",
+      "joke": "February can't March. But April May!"
+    },
+    {
+      "id": "9fd78b34",
+      "joke": "What do you call a belt made entirely of watches? A waist of time."
+    },
+    {
+      "id": "a02c4bab",
+      "joke": "A farmer had 297 cows, when he rounded them up, he found he had 300"
+    },
+    {
+      "id": "a036bc61",
+      "joke": "What do you call two guys hanging out by your window? Kurt & Rod."
+    },
+    {
+      "id": "a0d23a20",
+      "joke": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean."
+    },
+    {
+      "id": "a0ddd7f7",
+      "joke": "What do you call a magician who has lost their magic? Ian."
+    },
+    {
+      "id": "a0e80739",
+      "joke": "What do you call a female snake? Misssssssss."
+    },
+    {
+      "id": "a10a5f61",
+      "joke": "What is the least spoken language in the world? Sign Language"
+    },
+    {
+      "id": "a157cb80",
+      "joke": "Why did the golfer wear two pairs of pants? In case he got a hole in one."
+    },
+    {
+      "id": "a15a97eb",
+      "joke": "What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you."
+    },
+    {
+      "id": "a211327a",
+      "joke": "I lost my job at the bank on day one. A woman asked me to check her balance, so I pushed her over."
+    },
+    {
+      "id": "a21b6c3d",
+      "joke": "I was thinking about moving to Moscow but there is no point Russian into things."
+    },
+    {
+      "id": "a2784a5d",
+      "joke": "You can't run through a camp site. You can only ran, because it's past tents."
+    },
+    {
+      "id": "a28c6e4e",
+      "joke": "What has ears but cannot hear? A field of corn."
+    },
+    {
+      "id": "a2a4b757",
+      "joke": "I used to think I was indecisive, but now I'm not too sure."
+    },
+    {
+      "id": "a37c976a",
+      "joke": "What did the router say to the doctor? It hurts when IP."
+    },
+    {
+      "id": "a3b0afb3",
+      "joke": "A furniture store keeps calling me. All I wanted was one night stand."
+    },
+    {
+      "id": "a4056416",
+      "joke": "Every morning when I go out, I get hit by bicycle. Every morning! It's a vicious cycle."
+    },
+    {
+      "id": "a433dbb6",
+      "joke": "What do you call corn that joins the army? Kernel."
+    },
+    {
+      "id": "a4795b93",
+      "joke": "Yesterday I confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia."
+    },
+    {
+      "id": "a47af4ca",
+      "joke": "What's the best way to watch a fly fishing tournament Live stream."
+    },
+    {
+      "id": "a488a4fc",
+      "joke": "Why do Java programmers wear glasses? Because they don't C#"
+    },
+    {
+      "id": "a49076f1",
+      "joke": "Don’t trust atoms. They make up literally everything."
+    },
+    {
+      "id": "a4f57ee8",
+      "joke": "I gave all my dead batteries away today, free of charge."
+    },
+    {
+      "id": "a51a8a0a",
+      "joke": "Why do bees hum? Because they don't know the words."
+    },
+    {
+      "id": "a5e881bf",
+      "joke": "When a dad drives past a graveyard: Did you know that's a popular cemetery? Yep, people are just dying to get in there"
+    },
+    {
+      "id": "a623c0c1",
+      "joke": "People are shocked to discover I have a police record but I love their greatest hits!"
+    },
+    {
+      "id": "a63e9e85",
+      "joke": "Why did the math book look so sad? Too many problems."
+    },
+    {
+      "id": "a646b56e",
+      "joke": "What is the hardest part about sky diving? The ground."
+    },
+    {
+      "id": "a6ddb061",
+      "joke": "A magician was driving down the street and then he turned into a driveway."
+    },
+    {
+      "id": "a71c3665",
+      "joke": "The punchline often arrives before the set-up. Do you know the problem with UDP jokes?"
+    },
+    {
+      "id": "a72f6bd4",
+      "joke": "Where do fruits go on vacation? Pear-is."
+    },
+    {
+      "id": "a8136e13",
+      "joke": "Why is the new Kindle screen textured to look like paper? So you feel write at home."
+    },
+    {
+      "id": "a81d5ee9",
+      "joke": "Why did the tomato blush? Because it saw the salad dressing."
+    },
+    {
+      "id": "a81ea8bf",
+      "joke": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter."
+    },
+    {
+      "id": "a86cb06d",
+      "joke": "I don't trust sushi, there's something fishy about it."
+    },
+    {
+      "id": "a89390ea",
+      "joke": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian."
+    },
+    {
+      "id": "a90ad3f0",
+      "joke": "What did the calculator say to the student? You can count on me."
+    },
+    {
+      "id": "a912364b",
+      "joke": "Why did the golf course hire the dermatologist? It needed to have some moles removed."
+    },
+    {
+      "id": "a920c99d",
+      "joke": "I tried to write a joke about boxing. I think I missed the punchline."
+    },
+    {
+      "id": "a934796f",
+      "joke": "What’s orange and sounds like a parrot? A carrot."
+    },
+    {
+      "id": "a94fec8d",
+      "joke": "What do ghosts call their true love? Their ghoul-friend"
+    },
+    {
+      "id": "a985bba0",
+      "joke": "When does a joke become a dad joke? When it becomes apparent."
+    },
+    {
+      "id": "a9ac15b3",
+      "joke": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us."
+    },
+    {
+      "id": "a9f95d12",
+      "joke": "Two fish are in a tank, one turns to the other and says, \"how do you drive this thing?\""
+    },
+    {
+      "id": "aa8c03f0",
+      "joke": "\"Dad, do you think it's going to snow this winter?\" \"I dont know, its all up in the air\""
+    },
+    {
+      "id": "aa94a838",
+      "joke": "Why was the designer always cold? Because they always used too much ice-olation."
+    },
+    {
+      "id": "aa9996da",
+      "joke": "What’s brown and sticky? A stick."
+    },
+    {
+      "id": "aab85079",
+      "joke": "Two dyslexics walk into a bra."
+    },
+    {
+      "id": "ab41314e",
+      "joke": "What kind of dinosaur loves to sleep? A stega-snore-us."
+    },
+    {
+      "id": "ab7ce77b",
+      "joke": "Don't trust atoms. They make up everything."
+    },
+    {
+      "id": "abad2895",
+      "joke": "What's the worst thing about ancient history class? The teachers tend to Babylon."
+    },
+    {
+      "id": "abe6b521",
+      "joke": "A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"
+    },
+    {
+      "id": "ac35fc82",
+      "joke": "Why don't programmers like nature? There's too many bugs."
+    },
+    {
+      "id": "ac3a69d9",
+      "joke": "I am terrified of elevators. I’m going to start taking steps to avoid them."
+    },
+    {
+      "id": "ac43ce0f",
+      "joke": "How do hens stay fit? They always egg-cercise!"
+    },
+    {
+      "id": "acdc4ecb",
+      "joke": "What do you do on a remote island? Try and find the TV island it belongs to."
+    },
+    {
+      "id": "ace9e9b7",
+      "joke": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\""
+    },
+    {
+      "id": "acffc4be",
+      "joke": "Why did Dracula lie in the wrong coffin? He made a grave mistake."
+    },
+    {
+      "id": "ad0ed302",
+      "joke": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy."
+    },
+    {
+      "id": "ad501912",
+      "joke": "Why was the strawberry sad? Its parents were in a jam."
+    },
+    {
+      "id": "ad7009bb",
+      "joke": "What do you call a cow with two legs? Lean beef."
+    },
+    {
+      "id": "adab613c",
+      "joke": "what do you call a dog that can do magic tricks? a labracadabrador"
+    },
+    {
+      "id": "adcd9153",
+      "joke": "I used to hate facial hair, but then it grew on me."
+    },
+    {
+      "id": "adcf5304",
+      "joke": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it."
+    },
+    {
+      "id": "adf25103",
+      "joke": "Why can't you use \"Beef stew\" as a password? Because it's not stroganoff."
+    },
+    {
+      "id": "ae644e9a",
+      "joke": "Milk is also the fastest liquid on earth – its pasteurized before you even see it"
+    },
+    {
+      "id": "ae9a8295",
+      "joke": "Hey, wanna hear a joke? Parsing HTML with regex."
+    },
+    {
+      "id": "aeb9b424",
+      "joke": "Want to hear a joke about a piece of paper? Never mind...it's tearable"
+    },
+    {
+      "id": "aee18e49",
+      "joke": "What happens to a frog's car when it breaks down? It gets toad."
+    },
+    {
+      "id": "af5578bd",
+      "joke": "What did the janitor yell when he jumped out of the closet? Supplies!"
+    },
+    {
+      "id": "aff1e433",
+      "joke": "What do you call fake spaghetti? An impasta."
+    },
+    {
+      "id": "aff8c941",
+      "joke": "How does a scientist freshen their breath? With experi-mints!"
+    },
+    {
+      "id": "b003d277",
+      "joke": "Where do hamburgers go to dance? The meat-ball."
+    },
+    {
+      "id": "b050c65f",
+      "joke": "A man went to the doctor. He had a cucumber in one ear. A hot dog in the other ear. And two carrots stuck up his nose. He asked the doctor what was wrong with him and the doctor said: \"I don't think you're eating properly.\""
+    },
+    {
+      "id": "b06fa8ea",
+      "joke": "When do doctors get angry? When they run out of patients."
+    },
+    {
+      "id": "b0f36796",
+      "joke": "What has three letters and starts with gas? A Car."
+    },
+    {
+      "id": "b0f75d90",
+      "joke": "Dad, can you put my shoes on? No, I don't think they'll fit me."
+    },
+    {
+      "id": "b1518ef3",
+      "joke": "Did you hear about the circus fire? It was in tents."
+    },
+    {
+      "id": "b1c73980",
+      "joke": "What did the police officer say to his bellybutton? You’re under a vest."
+    },
+    {
+      "id": "b229c8f0",
+      "joke": "How do you make holy water? You boil the hell out of it."
+    },
+    {
+      "id": "b271c0fd",
+      "joke": "A grocery store cashier asked if I would like my milk in a bag. I told her 'No, thanks. The carton works fine.'"
+    },
+    {
+      "id": "b2fed8e5",
+      "joke": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
+    },
+    {
+      "id": "b3190396",
+      "joke": "What did the pirate say on his 80th birthday? Aye Matey!"
+    },
+    {
+      "id": "b32c326d",
+      "joke": "What's the worst part about being a cross-eyed teacher? They can't control their pupils."
+    },
+    {
+      "id": "b3469f10",
+      "joke": "What does the mermaid wear to math class? Algae-bra."
+    },
+    {
+      "id": "b38dd905",
+      "joke": "Wanna hear a joke about paper Never mind—it's tearable."
+    },
+    {
+      "id": "b3d23099",
+      "joke": "Why did the kid throw the clock out the window? He wanted to see time fly!"
+    },
+    {
+      "id": "b3d95eef",
+      "joke": "I’m reading a book about anti-gravity. Honestly? Can’t put it down."
+    },
+    {
+      "id": "b3e63465",
+      "joke": "When you have a bladder infection, urine trouble."
+    },
+    {
+      "id": "b4c6cd76",
+      "joke": "What cheese can never be yours? Nacho cheese."
+    },
+    {
+      "id": "b4d8a56b",
+      "joke": "I was gonna tell you a joke about UDP... ...but you might not get it."
+    },
+    {
+      "id": "b4dec6ac",
+      "joke": "Why did the clown have neck pain? - Because he slept funny"
+    },
+    {
+      "id": "b4fb894b",
+      "joke": "I used to work at a stationery store. But, I didn't feel like I was going anywhere. So, I got a job at a travel agency. Now, I know I'll be going places."
+    },
+    {
+      "id": "b511b0f3",
+      "joke": "Why did the developer break up with their keyboard? It just wasn't their type anymore."
+    },
+    {
+      "id": "b56c4372",
+      "joke": "What did the buffalo say when his son left for college? Bison."
+    },
+    {
+      "id": "b5bf4c85",
+      "joke": "The fattest knight at King Arthur's round table was Sir Cumference. He acquired his size from too much pi."
+    },
+    {
+      "id": "b5dae727",
+      "joke": "Which is the fastest growing city in the world? Dublin."
+    },
+    {
+      "id": "b5f8cc98",
+      "joke": "Why would a guitarist become a good programmer? He's adept at riffing in C#."
+    },
+    {
+      "id": "b638cc00",
+      "joke": "Why did the math book look sad? Because it had too many problems."
+    },
+    {
+      "id": "b6fd0663",
+      "joke": "Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31"
+    },
+    {
+      "id": "b76db51d",
+      "joke": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself."
+    },
+    {
+      "id": "b7b894ce",
+      "joke": "How do you make the number one disappear? Add the letter G and it’s “gone”!"
+    },
+    {
+      "id": "b7bf3634",
+      "joke": "What is the leading cause of dry skin? Towels"
+    },
+    {
+      "id": "b827fc97",
+      "joke": "I have a joke about chemistry, but I doubt it’ll get a reaction."
+    },
+    {
+      "id": "b843588c",
+      "joke": "What do you call a troublesome Canadian high schooler? A poutine."
+    },
+    {
+      "id": "b88be6ac",
+      "joke": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one."
+    },
+    {
+      "id": "b8915080",
+      "joke": "What do you call a belt made out of watches? A waist of time."
+    },
+    {
+      "id": "b96cef3b",
+      "joke": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets."
+    },
+    {
+      "id": "b980a099",
+      "joke": "What do you call a factory that only makes okay products? A satisfactory."
+    },
+    {
+      "id": "baa6294b",
+      "joke": "How do you know if there’s an elephant under your bed? Your head hits the ceiling!"
+    },
+    {
+      "id": "babe35f8",
+      "joke": "What did the drummer name his twin daughters? Anna One, Anna Two."
+    },
+    {
+      "id": "bbbfd084",
+      "joke": "I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free."
+    },
+    {
+      "id": "bbc66408",
+      "joke": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague."
+    },
+    {
+      "id": "bbc9f23e",
+      "joke": "Why does Superman get invited to dinners? Because he is a Supperhero."
+    },
+    {
+      "id": "bc19524a",
+      "joke": "I asked a frenchman if he played video games. He said \"Wii\""
+    },
+    {
+      "id": "bc1bb41f",
+      "joke": "What do you get from a pampered cow Spoiled milk."
+    },
+    {
+      "id": "bc3b8bbb",
+      "joke": "Remember, the best angle to approach a problem from is the \"try\" angle."
+    },
+    {
+      "id": "bc7cf203",
+      "joke": "Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there."
+    },
+    {
+      "id": "bd25edc2",
+      "joke": "What do you get when you cross a chicken with a skunk? A fowl smell!"
+    },
+    {
+      "id": "bd6e3814",
+      "joke": "It's been months since I bought the book \"how to scam people online\". It still hasn't turned up."
+    },
+    {
+      "id": "bd78cdcc",
+      "joke": "Did you know that ghosts call their true love their ghoul-friend?"
+    },
+    {
+      "id": "bddc7e04",
+      "joke": "I have a chicken-proof lawn. It’s impeccable."
+    },
+    {
+      "id": "be529c6b",
+      "joke": "I just watched a documentary about beavers. It was the best dam show I've ever seen."
+    },
+    {
+      "id": "bef333ef",
+      "joke": "Did you hear about the crime in the parking garage? It was wrong on so many levels."
+    },
+    {
+      "id": "bf2fe818",
+      "joke": "What time did the man go to the dentist? Tooth hurt-y."
+    },
+    {
+      "id": "bf8e865f",
+      "joke": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage."
+    },
+    {
+      "id": "bfc4c791",
+      "joke": "What did the pirate say on their 80th birthday? Aye Matey!"
+    },
+    {
+      "id": "c015c0b2",
+      "joke": "Dermatologists are always in a hurry. They spend all day making rash decisions."
+    },
+    {
+      "id": "c01674d9",
+      "joke": "What do you call a snake who builds houses? A boa constructor!"
+    },
+    {
+      "id": "c0550e35",
+      "joke": "My dad got fired as a road worker for stealing. I refused to believe he could do such a thing — but when I got home, the signs were all there."
+    },
+    {
+      "id": "c08b0d91",
+      "joke": "How do you make a hankie dance? Put a little boogie in it."
+    },
+    {
+      "id": "c1501bc7",
+      "joke": "Why did the snake go to the doctor? Because he had a frog in his throat."
+    },
+    {
+      "id": "c170d262",
+      "joke": "The great thing about stationery shops is they're always in the same place..."
+    },
+    {
+      "id": "c1a96e11",
+      "joke": "Why are snake races so exciting? They're always neck and neck."
+    },
+    {
+      "id": "c1eeb6cc",
+      "joke": "What do you call an elephant that doesn’t matter? An irrelephant."
+    },
+    {
+      "id": "c2a5635b",
+      "joke": "Who was the fattest knight at King Arthur’s round table? Sir Cumference."
+    },
+    {
+      "id": "c2d0c117",
+      "joke": "What does a clock do when it's hungry? It goes back four seconds!"
+    },
+    {
+      "id": "c31d6832",
+      "joke": "Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer"
+    },
+    {
+      "id": "c3449b9b",
+      "joke": "I just got fired from my job at the keyboard factory. They told me I wasn't putting in enough shifts."
+    },
+    {
+      "id": "c3712adb",
+      "joke": "What happens to a frog's car when it breaks down? It gets toad away"
+    },
+    {
+      "id": "c38d3393",
+      "joke": "Why did the carpenter leave the lumber store? Because he got bored."
+    },
+    {
+      "id": "c3a230a7",
+      "joke": "Where do rabbits go after they get married? On a bunny-moon."
+    },
+    {
+      "id": "c3a96565",
+      "joke": "I can’t believe I got fired from the calendar factory. All I did was take a day off."
+    },
+    {
+      "id": "c3ff7ad0",
+      "joke": "I was going to tell you a fighting joke but I forgot the punch line."
+    },
+    {
+      "id": "c449ac5d",
+      "joke": "What did the ocean say to the shore? Nothing, it just waved."
+    },
+    {
+      "id": "c49192aa",
+      "joke": "Want to hear a joke about going to the bathroom Urine for a treat."
+    },
+    {
+      "id": "c49f82d6",
+      "joke": "Hear about the guy that wanted to buy a pair of camouflage pants? He couldn't find them anywhere."
+    },
+    {
+      "id": "c4cfc6f4",
+      "joke": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster."
+    },
+    {
+      "id": "c53b68e8",
+      "joke": "Why couldn't the bike stand up by itself? It was two tired."
+    },
+    {
+      "id": "c562b714",
+      "joke": "I tried to milk a cow today, but was unsuccessful. Udder failure."
+    },
+    {
+      "id": "c5c31789",
+      "joke": "How many apples grow on a tree? All of them!"
+    },
+    {
+      "id": "c5e1bbea",
+      "joke": "When two vegans get into an argument, is it still beef?"
+    },
+    {
+      "id": "c5f1e879",
+      "joke": "My dog swallowed a handful of Scrabble tiles. I think this could spell disaster."
+    },
+    {
+      "id": "c60a1427",
+      "joke": "My wife said I was immature. So I told her to get out of my fort."
+    },
+    {
+      "id": "c6ad3e5e",
+      "joke": "Who did the wizard marry? His ghoul-friend"
+    },
+    {
+      "id": "c6baba5b",
+      "joke": "How many seconds are in a year? 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc"
+    },
+    {
+      "id": "c6c6ab27",
+      "joke": "Cosmetic surgery used to be such a taboo subject. Now you can talk about Botox and nobody raises an eyebrow."
+    },
+    {
+      "id": "c6d69f9d",
+      "joke": "What do you call a criminal going down the stairs? Condescending"
+    },
+    {
+      "id": "c7138e91",
+      "joke": "I got fired from the transmission factor, turns out I didn't put on enough shifts..."
+    },
+    {
+      "id": "c729e31b",
+      "joke": "What’s an astronaut’s favorite part of a computer The space bar."
+    },
+    {
+      "id": "c797c281",
+      "joke": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    },
+    {
+      "id": "c7c660ce",
+      "joke": "A cannibal is someone who is fed up with people."
+    },
+    {
+      "id": "c7c74014",
+      "joke": "What do you call a nervous javelin thrower? Shakespeare."
+    },
+    {
+      "id": "c7fb7476",
+      "joke": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    },
+    {
+      "id": "c838e0b5",
+      "joke": "Two silk worms had a race. They ended up in a tie."
+    },
+    {
+      "id": "c8953a9d",
+      "joke": "The urge to sing the Lion King song is just a whim away."
+    },
+    {
+      "id": "c8b907bd",
+      "joke": "If at first you don't succeed, sky diving is not for you!"
+    },
+    {
+      "id": "c8d36f37",
+      "joke": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you."
+    },
+    {
+      "id": "c9088865",
+      "joke": "Without geometry life is pointless."
+    },
+    {
+      "id": "c958e8e1",
+      "joke": "I’m so good at sleeping I can do it with my eyes closed."
+    },
+    {
+      "id": "c984f36c",
+      "joke": "What did the hat say to the scarf? You can hang around. I'll just go on ahead."
+    },
+    {
+      "id": "c991788a",
+      "joke": "How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!"
+    },
+    {
+      "id": "c9b91a84",
+      "joke": "Can I watch the TV? Dad: Yes, but don’t turn it on."
+    },
+    {
+      "id": "c9d9bed3",
+      "joke": "Why do ducks make great detectives? They always quack the case."
+    },
+    {
+      "id": "ca0bcf23",
+      "joke": "What did the buffalo say to his son when he dropped him off at school? Bison"
+    },
+    {
+      "id": "ca22071b",
+      "joke": "What did the fish say when it hit the wall? Dam."
+    },
+    {
+      "id": "ca402f2d",
+      "joke": "How do you make Lady Gaga cry? Poker face."
+    },
+    {
+      "id": "ca48a4c2",
+      "joke": "Why can't a bicycle stand on its own? It's two-tired."
+    },
+    {
+      "id": "ca73f8ec",
+      "joke": "I've just written a song about a tortilla. Well, it is more of a rap really."
+    },
+    {
+      "id": "ca8bc833",
+      "joke": "I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there."
+    },
+    {
+      "id": "ca8bdda9",
+      "joke": "I used to work for a soft drink can crusher. It was soda pressing."
+    },
+    {
+      "id": "ca90dba5",
+      "joke": "This morning I was wondering where the sun was, but then it dawned on me."
+    },
+    {
+      "id": "cac05643",
+      "joke": "Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore."
+    },
+    {
+      "id": "cac98c76",
+      "joke": "I just broke my guitar. It's okay, I won't fret"
+    },
+    {
+      "id": "cb01121f",
+      "joke": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open."
+    },
+    {
+      "id": "cb128a5b",
+      "joke": "I was wondering why the frisbee was getting bigger, then it hit me."
+    },
+    {
+      "id": "cb28934b",
+      "joke": "Want to hear a joke about a piece of paper? Never mind it's tearable."
+    },
+    {
+      "id": "cb3e3182",
+      "joke": "A book just fell on my head. I only have my shelf to blame."
+    },
+    {
+      "id": "cb506e19",
+      "joke": "We all know where the Big Apple is but does anyone know where the Minneapolis?"
+    },
+    {
+      "id": "cbbf2bb0",
+      "joke": "Why can't a nose be 12 inches long Because then it would be a foot."
+    },
+    {
+      "id": "cbd052e4",
+      "joke": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back."
+    },
+    {
+      "id": "cc1e9775",
+      "joke": "What type of music do balloons hate? Pop music!"
+    },
+    {
+      "id": "cc875e03",
+      "joke": "I broke my finger at work today, on the other hand I'm completely fine."
+    },
+    {
+      "id": "cc9a0542",
+      "joke": "Two guys walked into a bar. The third guy ducked."
+    },
+    {
+      "id": "ccd54265",
+      "joke": "did you know the first French fries weren't cooked in France? they were cooked in Greece"
+    },
+    {
+      "id": "cd045e53",
+      "joke": "Why is Peter Pan always flying? Because he Neverlands."
+    },
+    {
+      "id": "cd1f6805",
+      "joke": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction."
+    },
+    {
+      "id": "cd673ab1",
+      "joke": "I knew a guy who collected candy canes. They were all in mint condition."
+    },
+    {
+      "id": "cdc5feba",
+      "joke": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire."
+    },
+    {
+      "id": "cdea783e",
+      "joke": "What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+      "id": "cdf9e1ba",
+      "joke": "Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language."
+    },
+    {
+      "id": "ce6e1e80",
+      "joke": "What's the object-oriented way to become wealthy? Inheritance"
+    },
+    {
+      "id": "ce91c4bb",
+      "joke": "Where do young trees go to school? Elementree."
+    },
+    {
+      "id": "ce94c7f7",
+      "joke": "What's more amazing than a talking dog? A spelling bee."
+    },
+    {
+      "id": "ceda4bbf",
+      "joke": "What do you call a hot dog on wheels? Fast food."
+    },
+    {
+      "id": "ceda5803",
+      "joke": "When will the little snake arrive? I don't know but he won't be long..."
+    },
+    {
+      "id": "ceecec1e",
+      "joke": "Why did the ghost buy a box of bandages? Because he had so many BOO BOOs."
+    },
+    {
+      "id": "cef20bf7",
+      "joke": "Why did the programmer's wife leave him? He didn't know how to commit."
+    },
+    {
+      "id": "cef2b952",
+      "joke": "I would avoid the sushi if I was you. It's a little fishy."
+    },
+    {
+      "id": "cf4fb4f1",
+      "joke": "Why was the developer always calm? Because they knew how to handle exceptions."
+    },
+    {
+      "id": "cf5a582c",
+      "joke": "What do you call a factory that sells passable products? A satisfactory"
+    },
+    {
+      "id": "cfca20dc",
+      "joke": "What do you call a cow with two legs? Lean beef. If the cow has no legs, then it's ground beef."
+    },
+    {
+      "id": "d01487e3",
+      "joke": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian."
+    },
+    {
+      "id": "d0728626",
+      "joke": "Cashier: \"Would you like me to put the milk in a bag, sir?\" Dad: \"No, just leave it in the carton!\""
+    },
+    {
+      "id": "d095207b",
+      "joke": "Where do owls go to buy their baby clothes? The owlet malls."
+    },
+    {
+      "id": "d0bc7984",
+      "joke": "Why did the developer go broke? They kept spending all their cache."
+    },
+    {
+      "id": "d0c4f233",
+      "joke": "What did the digital clock say to the grandfather clock? Look, no hands!"
+    },
+    {
+      "id": "d0d2ecc9",
+      "joke": "What did the French chef get his wife for Valentine’s Day? A hug and a quiche."
+    },
+    {
+      "id": "d1064b5a",
+      "joke": "I'll tell you what often gets over looked... garden fences."
+    },
+    {
+      "id": "d15d6e22",
+      "joke": "What did the left eye say to the right eye? Between us, something smells!"
+    },
+    {
+      "id": "d1610664",
+      "joke": "What do you call a computer mouse that swears a lot? A cursor!"
+    },
+    {
+      "id": "d16c788e",
+      "joke": "An apple a day keeps the bullies away. If you throw it hard enough."
+    },
+    {
+      "id": "d266624f",
+      "joke": "How do you get a baby alien to sleep? You rocket."
+    },
+    {
+      "id": "d2732536",
+      "joke": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position."
+    },
+    {
+      "id": "d295e6b9",
+      "joke": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!"
+    },
+    {
+      "id": "d2ad1296",
+      "joke": "What is a vampire's favorite fruit? A blood orange."
+    },
+    {
+      "id": "d384b902",
+      "joke": "What did the ocean say to the beach? Thanks for all the sediment."
+    },
+    {
+      "id": "d3b0bb6c",
+      "joke": "A steak pun is a rare medium well done."
+    },
+    {
+      "id": "d3e236d7",
+      "joke": "I’ll tell you something about German sausages, they’re the wurst"
+    },
+    {
+      "id": "d4687e60",
+      "joke": "I’ve started a band called 1023 MB. We still haven’t got a gig."
+    },
+    {
+      "id": "d470145a",
+      "joke": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents."
+    },
+    {
+      "id": "d489d66a",
+      "joke": "If you see a robbery at an Apple Store, does that make you an iWitness?"
+    },
+    {
+      "id": "d48e2434",
+      "joke": "Knock-knock. A race condition. Who is there?"
+    },
+    {
+      "id": "d4b2a7b1",
+      "joke": "How many React developers does it take to change a lightbulb? None, they prefer dark mode."
+    },
+    {
+      "id": "d4cd7f71",
+      "joke": "Why did the m&m go to school? Because it wanted to be a Smartie!"
+    },
+    {
+      "id": "d4d3cc0a",
+      "joke": "What did one snowman say to the other snow man? Do you smell carrot?"
+    },
+    {
+      "id": "d512ad7a",
+      "joke": "Why did the astronaut move to the suburbs? He wanted more space."
+    },
+    {
+      "id": "d51e4221",
+      "joke": "Which bear is the most condescending? A pan-duh."
+    },
+    {
+      "id": "d53bd033",
+      "joke": "If athletes get athlete’s foot, what do astronauts get? Missile toe."
+    },
+    {
+      "id": "d54d00a8",
+      "joke": "What do vegetarian zombies eat? Grrrrrainnnnnssss."
+    },
+    {
+      "id": "d57d8d85",
+      "joke": "Where do boats go when they’re sick? The boat doc."
+    },
+    {
+      "id": "d5aedc08",
+      "joke": "I used to play piano by ear. These days I use my hands."
+    },
+    {
+      "id": "d5e4a559",
+      "joke": "Why are “Dad Jokes” so good? Because the punchline is apparent."
+    },
+    {
+      "id": "d5e5b46b",
+      "joke": "Why was the robot angry? Because someone kept pressing his buttons!"
+    },
+    {
+      "id": "d61cfb2a",
+      "joke": "I wanted to be a tailor but I didn't suit the job"
+    },
+    {
+      "id": "d6953a8a",
+      "joke": "Never Trust Someone With Graph Paper... They're always plotting something."
+    },
+    {
+      "id": "d6960ea3",
+      "joke": "I tell dad jokes but I’m not actually a dad. So I guess I’m a faux pa."
+    },
+    {
+      "id": "d69dfdf2",
+      "joke": "If April showers bring May flowers, what do May flowers bring? Pilgrims."
+    },
+    {
+      "id": "d6f90da7",
+      "joke": "Why did the rooster cross the road? He heard that the chickens at KFC were pretty hot."
+    },
+    {
+      "id": "d731f071",
+      "joke": "Want to hear a joke about construction? Nah, I'm still working on it."
+    },
+    {
+      "id": "d73aa168",
+      "joke": "I don't trust stairs. They're always up to something."
+    },
+    {
+      "id": "d76ce551",
+      "joke": "I’m really good at chess. I just can’t play it."
+    },
+    {
+      "id": "d77a1fcf",
+      "joke": "\"Dad, I'm cold.\" \"Go stand in the corner, I hear it's 90 degrees.\""
+    },
+    {
+      "id": "d7cace99",
+      "joke": "Why did the burglar hang their mugshot on the wall? To prove that they were framed!"
+    },
+    {
+      "id": "d86ec8c2",
+      "joke": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off."
+    },
+    {
+      "id": "d898589e",
+      "joke": "*Reversing the car* \"Ah, this takes me back\""
+    },
+    {
+      "id": "d89afc4c",
+      "joke": "Egyptians claimed to invent the guitar, but they were such lyres.﻿"
+    },
+    {
+      "id": "d89ec5e5",
+      "joke": "I burned 2000 calories today, I left my food in the oven for too long."
+    },
+    {
+      "id": "d8aa295c",
+      "joke": "I tried to write a chemistry joke, but could never get a reaction."
+    },
+    {
+      "id": "d8aa963a",
+      "joke": "What do you get when you cross a pig and a pineapple? A porky pine"
+    },
+    {
+      "id": "d8d4e62c",
+      "joke": "What do you get when you cross a bee and a sheep? A bah-humbug."
+    },
+    {
+      "id": "d9307e8d",
+      "joke": "I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity."
+    },
+    {
+      "id": "d94ab349",
+      "joke": "They laughed when I said I wanted to be a comedian – they’re not laughing now."
+    },
+    {
+      "id": "d9630cc2",
+      "joke": "What did the dog say to the two trees? Bark bark."
+    },
+    {
+      "id": "d96e9e39",
+      "joke": "Did you hear they finally arrested the devil? They got him on possession."
+    },
+    {
+      "id": "d99c75e9",
+      "joke": "What is bread's favorite number? Leaven."
+    },
+    {
+      "id": "d9bb56b6",
+      "joke": "What did the duck say when he bought lipstick? Put it on my bill"
+    },
+    {
+      "id": "d9db9c53",
+      "joke": "What's Forrest Gump's password? 1Forrest1"
+    },
+    {
+      "id": "d9e45875",
+      "joke": "What kind of award did the dentist receive? A little plaque."
+    },
+    {
+      "id": "da0d799e",
+      "joke": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon."
+    },
+    {
+      "id": "da4149de",
+      "joke": "What do you call a fish wearing a bowtie? Sofishticated."
+    },
+    {
+      "id": "da948645",
+      "joke": "Why did the pizza cutter get a speeding ticket? Because he was rounding the corner too fast."
+    },
+    {
+      "id": "dab0728d",
+      "joke": "How many programmers does it take to change a lightbulb? None that's a hardware problem"
+    },
+    {
+      "id": "db0e0a99",
+      "joke": "Two guys walked into a bar, the third one ducked."
+    },
+    {
+      "id": "db3bc52f",
+      "joke": "What did one nut say as he chased another nut? I'm a cashew!"
+    },
+    {
+      "id": "dc44402d",
+      "joke": "What do you get when you cross a snowman with a vampire? Frostbite."
+    },
+    {
+      "id": "dc6853a6",
+      "joke": "Why was the JavaScript developer sad? He didn't know how to null his feelings."
+    },
+    {
+      "id": "dc8df710",
+      "joke": "Thanks for explaining the word \"many\" to me. It means a lot."
+    },
+    {
+      "id": "dcea5689",
+      "joke": "When my wife told me to stop impersonating a flamingo, I had to put my foot down."
+    },
+    {
+      "id": "dcf01397",
+      "joke": "What do you call a fish in a bowtie? Sofishticated."
+    },
+    {
+      "id": "dd0f0757",
+      "joke": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents."
+    },
+    {
+      "id": "dd10e4b2",
+      "joke": "I’ve got a few jokes about umbrellas, but they tend to go over people’s heads."
+    },
+    {
+      "id": "dd14fc80",
+      "joke": "What was a more important invention than the first telephone? The second one."
+    },
+    {
+      "id": "dd387123",
+      "joke": "What do you call a pile of cats? A meowtain."
+    },
+    {
+      "id": "dd3af5b6",
+      "joke": "How do you check if a webpage is HTML5? Try it out on Internet Explorer"
+    },
+    {
+      "id": "dd7044c9",
+      "joke": "Spring is here — I got so excited I wet my plants."
+    },
+    {
+      "id": "dd7c7848",
+      "joke": "A horse walks into a bar. The bar tender says \"Hey.\" The horse says \"Sure.\""
+    },
+    {
+      "id": "dd9a5f38",
+      "joke": "How many lips does a flower have? Tulips"
+    },
+    {
+      "id": "de0caf09",
+      "joke": "My first time using an elevator was an uplifting experience. The second time let me down."
+    },
+    {
+      "id": "de4cd13d",
+      "joke": "My boss told me to attach two pieces of wood together... I totally nailed it!"
+    },
+    {
+      "id": "de618f74",
+      "joke": "What do you call a cow on a trampoline? A milk shake!"
+    },
+    {
+      "id": "deffbf4a",
+      "joke": "Why did the feline fail the lie detector test? Because he be lion."
+    },
+    {
+      "id": "df32e8bd",
+      "joke": "Why did the cow in the pasture get promoted at work Because he is OUT-STANDING in his field!"
+    },
+    {
+      "id": "df40317f",
+      "joke": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline."
+    },
+    {
+      "id": "dfae2f77",
+      "joke": "When is a door not a door? When it's ajar."
+    },
+    {
+      "id": "e032de83",
+      "joke": "What's red and bad for your teeth? A Brick."
+    },
+    {
+      "id": "e04a0ae7",
+      "joke": "Why was it called the dark ages? Because of all the knights."
+    },
+    {
+      "id": "e0bcbb52",
+      "joke": "I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there."
+    },
+    {
+      "id": "e0c45a73",
+      "joke": "If I asked you to choose your favorite feature, would you... ...pick your nose?"
+    },
+    {
+      "id": "e0f0cadd",
+      "joke": "Dad, can you put my shoes on? I don't think they'll fit me."
+    },
+    {
+      "id": "e0ffa3e7",
+      "joke": "I accidentally took my cats meds last night. Don’t ask meow."
+    },
+    {
+      "id": "e10ec25b",
+      "joke": "Have you heard about the sale at the Optimist Store? Everything's 50% on."
+    },
+    {
+      "id": "e1c2ed19",
+      "joke": "It doesn't matter how much you push the envelope. It will still be stationary."
+    },
+    {
+      "id": "e1c4a31e",
+      "joke": "What goes after USA? USB."
+    },
+    {
+      "id": "e1ec6be4",
+      "joke": "Why are spiders such good developers? They’re comfortable on the web."
+    },
+    {
+      "id": "e1f748f5",
+      "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted."
+    },
+    {
+      "id": "e211bf24",
+      "joke": "How do you fix a broken pizza? With tomato paste."
+    },
+    {
+      "id": "e23184c5",
+      "joke": "Why did the half blind man fall in the well? Because he couldn't see that well!"
+    },
+    {
+      "id": "e2433709",
+      "joke": "Why does Han Solo like gum? It's chewy!"
+    },
+    {
+      "id": "e2f8c12d",
+      "joke": "What do you call a cow with no legs? Ground beef."
+    },
+    {
+      "id": "e32c7690",
+      "joke": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?"
+    },
+    {
+      "id": "e3d213ed",
+      "joke": "I named my dogs Rolex and Timex. They’re my watchdogs."
+    },
+    {
+      "id": "e44b04e0",
+      "joke": "What do you call a fish with two knees? A \"two-knee\" fish."
+    },
+    {
+      "id": "e47d1414",
+      "joke": "Someone broke into my house last night and stole my limbo trophy. How low can you go?"
+    },
+    {
+      "id": "e48119e1",
+      "joke": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’ I couldn’t turn it down."
+    },
+    {
+      "id": "e48efde7",
+      "joke": "How do lawyers say goodbye Sue ya later!"
+    },
+    {
+      "id": "e4adb99f",
+      "joke": "Why was the font always tired? It was always bold."
+    },
+    {
+      "id": "e4fe7232",
+      "joke": "People saying 'boo!' to their friends has risen by 85% in the last year. That's a frightening statistic."
+    },
+    {
+      "id": "e5496dae",
+      "joke": "I used to think I was indecisive, but now I'm not sure."
+    },
+    {
+      "id": "e550b7dd",
+      "joke": "I dropped a pear in my car this morning. You should drop another one, then you would have a pair."
+    },
+    {
+      "id": "e58ff222",
+      "joke": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!"
+    },
+    {
+      "id": "e5ca17f1",
+      "joke": "Why did the programmer always carry a pencil? They preferred to write in C#."
+    },
+    {
+      "id": "e6041ea2",
+      "joke": "What does a zombie vegetarian eat? \"GRRRAAAAAIIIINNNNS!\""
+    },
+    {
+      "id": "e612e65a",
+      "joke": "What do you call a bee that can't make up its mind? A maybe."
+    },
+    {
+      "id": "e62c00f7",
+      "joke": "Two cowboys are lost in the desert. One spots a tree draped in bacon. “A bacon tree! We’re saved!” he yells, sprinting over — only to be cut down by gunfire. Turns out it wasn’t a bacon tree. It was a hambush."
+    },
+    {
+      "id": "e661b3aa",
+      "joke": "Which side of the chicken has more feathers? The outside."
+    },
+    {
+      "id": "e6b9be01",
+      "joke": "If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it."
+    },
+    {
+      "id": "e6c69507",
+      "joke": "“My Dog has no nose.” “How does he smell?” “Awful”"
+    },
+    {
+      "id": "e7b57fed",
+      "joke": "What did the fish say when it swam into a wall? Dam!"
+    },
+    {
+      "id": "e7ee3ca7",
+      "joke": "Where does Napoleon keep his armies? In his sleevies."
+    },
+    {
+      "id": "e84c00e1",
+      "joke": "A brain walked into a bar. The bartender said, “Sorry, you’re out of your head.”"
+    },
+    {
+      "id": "e919a25f",
+      "joke": "I heard there was a new store called Moderation. They have everything there"
+    },
+    {
+      "id": "e93d3158",
+      "joke": "“Hold on, I have something in my shoe” “I’m pretty sure it’s a foot”"
+    },
+    {
+      "id": "e96c65f4",
+      "joke": "I couldn't get a reservation at the library. They were completely booked."
+    },
+    {
+      "id": "e9bca44d",
+      "joke": "I went to a Foo Fighters Concert once... It was Everlong..."
+    },
+    {
+      "id": "e9d951f6",
+      "joke": "Someone asked me to name two structures that hold water. I said \"Well dam\""
+    },
+    {
+      "id": "ea44979d",
+      "joke": "Do you know what the word 'was' was initially? Before was was was was was is."
+    },
+    {
+      "id": "ea7ac847",
+      "joke": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while."
+    },
+    {
+      "id": "ea85b034",
+      "joke": "Why do bees have sticky hair? Because they use honey combs!"
+    },
+    {
+      "id": "eaa2a97c",
+      "joke": "I’m on a seafood diet. I see food, and then I eat it."
+    },
+    {
+      "id": "eae96c7c",
+      "joke": "Why did Mozart kill all his chickens? Because when he asked them who the best composer was, they'd all say \"Bach bach bach!\""
+    },
+    {
+      "id": "eaf9940a",
+      "joke": "Coffee has a tough time at my house, every morning it gets mugged."
+    },
+    {
+      "id": "eb112ae6",
+      "joke": "For Valentine's day, I decided to get my wife some beads for an abacus. It's the little things that count."
+    },
+    {
+      "id": "eb6edcb4",
+      "joke": "Two goldfish are in a tank. One says to the other, \"do you know how to drive this thing?\""
+    },
+    {
+      "id": "ebe87042",
+      "joke": "How many South Americans does it take to change a lightbulb? A Brazilian"
+    },
+    {
+      "id": "ec1c966d",
+      "joke": "How did the hipster burn the roof of their mouth? They ate the pizza before it was cool."
+    },
+    {
+      "id": "ec590d38",
+      "joke": "A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t."
+    },
+    {
+      "id": "ec72100c",
+      "joke": "People don't like having to bend over to get their drinks. We really need to raise the bar."
+    },
+    {
+      "id": "ecc8860f",
+      "joke": "I can't tell if i like this blender... It keeps giving me mixed results."
+    },
+    {
+      "id": "eccdd6bf",
+      "joke": "What is a witch's favorite subject in school? Spelling!"
+    },
+    {
+      "id": "edbdc4a1",
+      "joke": "What’s more unbelievable than a talking dog? A spelling bee."
+    },
+    {
+      "id": "ee284bfc",
+      "joke": "What do you call a pig that knows karate? A pork chop!"
+    },
+    {
+      "id": "ee5873a6",
+      "joke": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
+    },
+    {
+      "id": "ee5af8f8",
+      "joke": "If you want to get a job at the moisturizer factory you’re going to have to apply daily."
+    },
+    {
+      "id": "eef59af4",
+      "joke": "Did you hear about the two thieves who stole a calendar? They each got six months."
+    },
+    {
+      "id": "ef73f41c",
+      "joke": "Which song would an exception sing? Can't catch me - Avicii"
+    },
+    {
+      "id": "efb9a54f",
+      "joke": "It's only a murder of crows if there's probable caws."
+    },
+    {
+      "id": "f00338bf",
+      "joke": "Two peanuts were walking down the street. One was a salted"
+    },
+    {
+      "id": "f00c4b58",
+      "joke": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\" \"Pop,\" goes the weasel."
+    },
+    {
+      "id": "f031f6b6",
+      "joke": "You see, mountains aren't just funny. They are hill areas."
+    },
+    {
+      "id": "f0b3fa88",
+      "joke": "Why don't oysters give to charity? Because they're shellfish."
+    },
+    {
+      "id": "f10c2800",
+      "joke": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\""
+    },
+    {
+      "id": "f1a84d9e",
+      "joke": "What do you get if you put a duck in a cement mixer? Quacks in the pavement."
+    },
+    {
+      "id": "f24e8cda",
+      "joke": "Knock knock. Who's there? Little old lady. Little old lady who? I didn't know you could yodel!"
+    },
+    {
+      "id": "f24f03c2",
+      "joke": "What is a tornado's favorite game to play? Twister!"
+    },
+    {
+      "id": "f27088ef",
+      "joke": "What do you call a bee that lives in America? A USB."
+    },
+    {
+      "id": "f375ddb7",
+      "joke": "What lies at the bottom of the ocean and twitches? A nervous wreck."
+    },
+    {
+      "id": "f3a4c126",
+      "joke": "Parallel lines have so much in common. It’s a shame they’ll never meet."
+    },
+    {
+      "id": "f3bccad8",
+      "joke": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”"
+    },
+    {
+      "id": "f3c1739b",
+      "joke": "Why did the man put his money in the freezer? He wanted cold hard cash!"
+    },
+    {
+      "id": "f3fc53e8",
+      "joke": "Why did the man run around his bed? Because he was trying to catch up on his sleep!"
+    },
+    {
+      "id": "f4576893",
+      "joke": "Our wedding was so beautiful, even the cake was in tiers."
+    },
+    {
+      "id": "f48e7935",
+      "joke": "If you boil a clown... Do you get a laughing stock?"
+    },
+    {
+      "id": "f4b8cef1",
+      "joke": "Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”"
+    },
+    {
+      "id": "f55ac19c",
+      "joke": "Why don't React developers like nature? They prefer the virtual DOM."
+    },
+    {
+      "id": "f5868a97",
+      "joke": "What did the spaghetti say to the other spaghetti? Pasta la vista, baby!"
+    },
+    {
+      "id": "f5873c92",
+      "joke": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement"
+    },
+    {
+      "id": "f5c9871f",
+      "joke": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich."
+    },
+    {
+      "id": "f5f9cd59",
+      "joke": "5/4 of people admit that they're bad with fractions."
+    },
+    {
+      "id": "f63bbb94",
+      "joke": "Why are elevator jokes so good? They work on so many levels."
+    },
+    {
+      "id": "f66a62aa",
+      "joke": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle? Doctor: No, humans can never hear that high of a frequency no matter what age they are. Me: Trick question... dogs can't whistle."
+    },
+    {
+      "id": "f670ac56",
+      "joke": "Want to hear a chimney joke? Got stacks of em! First one's on the house"
+    },
+    {
+      "id": "f6b93086",
+      "joke": "What biscuit does a short person like? Shortbread."
+    },
+    {
+      "id": "f6bde0b8",
+      "joke": "There are two types of people in this world, those who can extrapolate from incomplete data..."
+    },
+    {
+      "id": "f6cf08c7",
+      "joke": "What does an angry pepper do? It gets jalapeño face."
+    },
+    {
+      "id": "f6d37248",
+      "joke": "Why is there always a gate around cemeteries? Because people are always dying to get in."
+    },
+    {
+      "id": "f729af42",
+      "joke": "Have you heard about corduroy pillows? They're making headlines!"
+    },
+    {
+      "id": "f73e2087",
+      "joke": "Did I tell you the time I fell in love during a backflip? I was heels over head."
+    },
+    {
+      "id": "f75420c0",
+      "joke": "Scientists finally did a study on forks. It's about tine!"
+    },
+    {
+      "id": "f755571b",
+      "joke": "Did you hear about the submarine industry? It really took a dive..."
+    },
+    {
+      "id": "f7768edc",
+      "joke": "It's difficult to say what my wife does, she sells sea shells by the sea shore."
+    },
+    {
+      "id": "f7a73c88",
+      "joke": "Some people say that I never got over my obsession with Phil Collins. But take a look at me now."
+    },
+    {
+      "id": "f81cba6d",
+      "joke": "What do you call cheese that's not yours? Nacho cheese."
+    },
+    {
+      "id": "f9105181",
+      "joke": "Somebody stole my Microsoft Office and they're going to pay - you have my Word."
+    },
+    {
+      "id": "f9641af6",
+      "joke": "Why do wizards clean their teeth three times a day? To prevent bat breath!"
+    },
+    {
+      "id": "f9737c19",
+      "joke": "My wife asked me to grab six cans of Sprite from the shop. I got home and realized I’d picked 7-up."
+    },
+    {
+      "id": "f9a46ece",
+      "joke": "\"I'm sorry.\" \"Hi sorry, I'm dad\""
+    },
+    {
+      "id": "f9b77064",
+      "joke": "My son is studying to be a surgeon, I just hope he makes the cut."
+    },
+    {
+      "id": "f9cd4b86",
+      "joke": "Don't tell secrets in corn fields. Too many ears around."
+    },
+    {
+      "id": "f9d6b873",
+      "joke": "Can February march? No, but April may."
+    },
+    {
+      "id": "f9fe4adc",
+      "joke": "I think circles are pointless."
+    },
+    {
+      "id": "fa366f3d",
+      "joke": "What did the piece of bread say to the knife? Butter me up."
+    },
+    {
+      "id": "fa9d7043",
+      "joke": "Sundays are always a little sad. Yesterday, on the other hand, was a sad-er-day."
+    },
+    {
+      "id": "fae01ad2",
+      "joke": "Where do bees go to the bathroom? The BP station."
+    },
+    {
+      "id": "fae73872",
+      "joke": "What do you call a sheep with no legs? A cloud."
+    },
+    {
+      "id": "fb695e93",
+      "joke": "What do you call a thieving alligator? A crookodile!"
+    },
+    {
+      "id": "fb910c66",
+      "joke": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere."
+    },
+    {
+      "id": "fbcc83dd",
+      "joke": "Is the pool safe for diving? It deep ends."
+    },
+    {
+      "id": "fc255169",
+      "joke": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible."
+    },
+    {
+      "id": "fc5aa381",
+      "joke": "Did you hear about the hungry clock? It went back four seconds."
+    },
+    {
+      "id": "fc5d67d8",
+      "joke": "What do you call a lonely cheese? Provolone."
+    },
+    {
+      "id": "fc9e23aa",
+      "joke": "What kind of pants do ghosts wear? Boo jeans."
+    },
+    {
+      "id": "fcb6021b",
+      "joke": "Why don’t skeletons fight each other? They don’t have the guts."
+    },
+    {
+      "id": "fce8cb78",
+      "joke": "Why did the cookie go to the doctor? Because it was feeling crumbly."
+    },
+    {
+      "id": "fddffb0d",
+      "joke": "You heard of that new band 1023MB They're good but they haven't got a gig yet."
+    },
+    {
+      "id": "fe34ced3",
+      "joke": "What kind of music do planets listen to? Nep-tunes."
+    },
+    {
+      "id": "fe593f68",
+      "joke": "Have you ever heard of a music group called Cellophane? They mostly wrap."
+    },
+    {
+      "id": "fe7be8d6",
+      "joke": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\""
+    },
+    {
+      "id": "fe862aef",
+      "joke": "A termite walks into a bar and says... 'Where is the bar tended?'"
+    },
+    {
+      "id": "fef1729c",
+      "joke": "Why did the worker get fired from the orange juice factory? Lack of concentration."
+    },
+    {
+      "id": "ff1c3fc8",
+      "joke": "What kind of magic do cows believe in? MOODOO."
+    },
+    {
+      "id": "ff2ebaea",
+      "joke": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose."
+    },
+    {
+      "id": "ff787e99",
+      "joke": "Did you hear that they invented a new type broom? It's sweeping the nation."
+    },
+    {
+      "id": "ffcc2324",
+      "joke": "What did Yoda say when he saw himself in 4K? \"HDMI\""
+    },
+    {
+      "id": "ffd20018",
+      "joke": "What kind of shoes does a thief wear? Sneakers"
+    },
+    {
+      "id": "fffe4d3b",
+      "joke": "Why did the miner get fired from his job? He took it for granite..."
+    },
+    {
+      "id": "fffe4d5b",
+      "joke": "Who are the most impatient people in the world? Russians..."
+    }
+  ]
+}
